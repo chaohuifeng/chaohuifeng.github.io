@@ -1,0 +1,81 @@
+---
+layout: default
+---
+
+<article class="page-content">
+  {{ content }}
+</article>
+
+<style>
+.page-content {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 2rem 0;
+}
+
+.page-content h1:first-child {
+  margin-top: 0;
+  text-align: center;
+  color: #1a4a6b;
+  font-size: 2.5rem;
+  border-bottom: 3px solid #3498db;
+  padding-bottom: 1rem;
+  margin-bottom: 3rem;
+}
+
+.page-content h2 {
+  margin-top: 3rem;
+  color: #2c5aa0;
+  border-bottom: 2px solid #e8f4f8;
+  padding-bottom: 0.5rem;
+}
+
+.page-content h3 {
+  color: #3498db;
+  margin-top: 2rem;
+}
+
+.page-content p {
+  line-height: 1.8;
+  margin-bottom: 1.5rem;
+  text-align: justify;
+}
+
+.page-content ul, .page-content ol {
+  margin-bottom: 2rem;
+}
+
+.page-content blockquote {
+  background: #f8f9fa;
+  border-left: 4px solid #3498db;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  border-radius: 0 8px 8px 0;
+  font-style: italic;
+  color: #5a6c7d;
+}
+
+.page-content table {
+  margin: 2rem 0;
+  box-shadow: 0 2px 15px rgba(0,0,0,0.1);
+}
+
+.page-content img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  margin: 2rem 0;
+}
+
+@media (max-width: 768px) {
+  .page-content {
+    padding: 1rem 0;
+  }
+  
+  .page-content h1:first-child {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+  }
+}
+</style>

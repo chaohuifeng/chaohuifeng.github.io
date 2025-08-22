@@ -1,0 +1,53 @@
+# Basic site info
+title: Chaohui Feng - Academic Homepage
+name: Chaohui Feng
+email: fengchaohui23@mails.ucas.ac.cn
+description: A researcher specializing in earthquake simulation and cascading geo-hazards, with a focus on seismic risk assessment and multi-hazard modeling.
+
+# URL (for GitHub Pages, use https://your-username.github.io)
+url: https://chaohuifeng.github.io
+
+# Social links
+twitter_username: your_twitter
+github_username: chaohuifeng
+linkedin_username: your_linkedin
+researchgate_username: Chaohui-Feng
+
+# Jekyll setup
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:title/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# Sass configuration
+sass:
+  sass_dir: assets/css
+  style: compressed
+
+# Build settings
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .gitignore
+  - README.md
