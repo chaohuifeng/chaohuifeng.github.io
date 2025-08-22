@@ -77,11 +77,10 @@ My research focuses on **bridging the gap between theoretical seismic modeling a
 ### Educational Journey
 - **M.Sc. Geology** - UCAS *(2023-2024)*
   - Focus: Advanced geophysics and computational methods
-  - Key achievements: 3.7/4.0 GPA, research excellence
+
 
 - **B.Sc. Engineering** - Chang'an University *(2019-2023)*
   - Specialization: Land consolidation and disaster prevention
-  - Recognition: Top 13% of graduating class
 
 ---
 
@@ -112,10 +111,6 @@ My research focuses on **bridging the gap between theoretical seismic modeling a
   - Damage pattern analysis
   - Site effect assessment
 
-### International Collaboration
-- **Research Visits**: Collaborating with international institutions
-- **Conference Participation**: Presenting at major geoscience meetings
-- **Data Sharing**: Contributing to global geohazard databases
 
 ---
 

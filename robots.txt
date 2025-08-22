@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chaohuifeng.github.io/sitemap.xml
