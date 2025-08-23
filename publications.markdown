@@ -4,7 +4,7 @@ title: "Publications & Academic Outputs"
 description: "Academic publications, conference presentations, and research contributions in earthquake simulation and geohazard research"
 ---
 
-# 📚 Publications & Academic Outputs
+# 📚 Academic Outputs
 
 This page showcases my academic contributions, including published papers, conference presentations, and ongoing research projects.
 
@@ -16,9 +16,9 @@ This page showcases my academic contributions, including published papers, confe
 
 #### 1. Stochastic Ground-Motion Modelling for Historical Earthquakes
 **Journal**: *Journal of Seismological Research (in Chinese)*  
-**Status**: ✅ Accepted  
+**Status**: 🔄 Pending Publication  
 **Year**: 2025  
-**Authors**: Feng, C., Cheng, J. ,  Wang, Z.
+**Authors**: Feng, C., Cheng, J., Wang, Z.  
 **DOI**: [Pending]  
 
 **Abstract**: This study presents a comprehensive analysis of the 1833 Songming M8 earthquake using the Stochastic Finite-Fault Method (SFFM). We incorporate non-uniform slip distributions and site effect corrections to improve ground motion prediction accuracy.
@@ -29,19 +29,17 @@ This page showcases my academic contributions, including published papers, confe
 
 #### Earthquake-Landslide Cascade Analysis: A Case Study of Xianshuihe Fault Zone
 **Status**: 🔄 In Preparation  
-
+**Focus**: Multi-hazard risk assessment framework development
 
 ---
 
 ## 🎤 Conference Presentations
-
 
 #### Chinese Geoscience Union (CGU) Annual Meeting
 - **Title**: *Intensity Field Reconstruction and Earthquake-Landslide Cascades of Xianshuihe Fault*  
 - **Date**: October 2025  
 - **Venue**: Chengdu, China  
 - **Status**: ✅ Accepted  
-
 
 #### Annual Academic Conference of the Earthquake Hazard Chain Committee
 - **Title**: *Seismic-Hazard Simulation of the 1833 Songming Earthquake Based on SFFM*  
@@ -54,16 +52,32 @@ This page showcases my academic contributions, including published papers, confe
 ## 🛠️ Open Source Tools & Software
 
 ### SeisRiskSim
-**Description**: Python library for stochastic seismic hazard simulation  
-**Status**: 🔄 In Development  
-**Repository**: [github.com/chaohuifeng/seis-risk-sim](https://github.com/chaohuifeng/seis-risk-sim-sffm-exsim)  
+**Description**: Python workflow for Stochastic Finite Fault Method (SFFM) and strong-motion fault modeling  
+**Status**: ✅ Available  
+**Repository**: [github.com/chaohuifeng/seis-risk-sim](https://github.com/chaohuifeng/seis-risk-sim)  
+**Features**: SFFM component derived from exsim_dmb, comprehensive workflow for seismic modeling
+
+---
+
+## 🏆 Patents & Intellectual Property
+
+### Pending Patent
+**Title**: Multi-hazard assessment framework for earthquake-landslide cascade modeling  
+**Status**: 🔄 Application submitted, under review  
+**Innovation**: Integrated approach combining seismic simulation with landslide susceptibility analysis  
+**Application Date**: 2024
 
 ---
 
 ## 🔬 Research Collaborations
 
 ### Current Collaborators
-- **Prof. Jia Cheng** (China University of Geosciences) - Primary supervisor and research partner
+- **Prof. Jia Cheng** (National Institute of Natural Hazards, MEMC-CAS) - Primary supervisor and research partner
+
+### Research Projects
+- **NSFC Project 42074064**: Historical earthquake intensity field reconstruction
+- **NSFC Project 42474084**: Multi-hazard risk assessment framework
+- **NSFC Project U2039201**: Earthquake-landslide cascade modeling
 
 ---
 

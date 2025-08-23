@@ -95,7 +95,7 @@ My research focuses on advancing our understanding of earthquake simulation and 
   <div class="project-outcomes">
     <h4>Achieved Outcomes</h4>
     <ul>
-      <li>✅ 1st-author paper accepted in <em>Journal of Seismological Research</em></li>
+      <li>✅ 1st-author paper accepted in <em>Journal of Seismological Research</em> (pending publication)</li>
       <li>✅ Python workflows for historical earthquake simulation</li>
       <li>✅ Validation framework for ground motion prediction</li>
     </ul>
@@ -128,18 +128,28 @@ My research employs a multi-layered computational approach:
 ## 🌟 Research Contributions
 
 ### Academic Publications
-- **In Preparation**: Multi-hazard risk assessment framework for Xianshuihe Fault Zone
-- **Published**: Stochastic modeling of 1833 Songming earthquake (Journal of Seismological Research, in chinese)
 
+#### **Published Papers**
+- **In Preparation**: Multi-hazard risk assessment framework for Xianshuihe Fault Zone
+- **Pending Publication**: Stochastic modeling of 1833 Songming earthquake (Journal of Seismological Research, in Chinese)
+  - **Status**: Accepted, awaiting publication
+  - **Focus**: SFFM simulation with non-uniform slip distributions
+
+#### **Conference Presentations**
+- **CGU Annual Meeting 2025**: Intensity field reconstruction and earthquake-landslide cascades
+- **Earthquake Hazard Chain Committee 2024**: SFFM-based seismic hazard simulation
+
+### Patents & Intellectual Property
+
+#### **Pending Patent**
+- **Title**: Multi-hazard assessment framework for earthquake-landslide cascade modeling
+- **Status**: Application submitted, under review
+- **Innovation**: Integrated approach combining seismic simulation with landslide susceptibility analysis
 
 ### Technical Reports
 - **Government Reports**: Regional hazard assessment for emergency planning
 - **Industry Collaborations**: Infrastructure vulnerability studies
 - **Open Source Tools**: Development of geohazard analysis packages
-
-### Conference Presentations
-- **CGU Annual Meeting 2025**: Intensity field reconstruction and earthquake-landslide cascades
-- **Earthquake Hazard Chain Committee 2024**: SFFM-based seismic hazard simulation
 
 ---
 

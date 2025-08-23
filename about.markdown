@@ -1,127 +1,170 @@
 ---
 layout: page
-title: "About Me - Chaohui Feng"
-classes: "page-about"
+title: "About Me"
+description: "Personal background, education, and career journey in geoscience research"
 ---
 
-<div class="about-hero">
-  <div class="about-content">
-    <h1>About Me</h1>
-    <p class="about-intro">A passionate researcher dedicated to advancing earthquake simulation and multi-hazard risk assessment through computational geoscience and data-driven approaches.</p>
-  </div>
-</div>
+# 👨‍🎓 About Me
 
----
+## 🎯 Personal Overview
 
-## 🔬 Research Philosophy
+I'm **Chaohui Feng**, a passionate researcher specializing in earthquake simulation and cascading geo-hazards. Currently working as a Research Assistant at the National Institute of Natural Hazards (MEMC-CAS), I focus on developing computational methods to understand and predict natural disasters.
 
-My research focuses on **bridging the gap between theoretical seismic modeling and practical hazard mitigation**. I believe that:
-
-- **Data-driven approaches** can transform our understanding of complex geohazard systems
-- **Computational advances** enable more accurate and timely risk assessments
-- **Interdisciplinary collaboration** is essential for comprehensive disaster preparedness
-- **Open-source tools** democratize access to advanced geohazard analysis
+My research journey began with land consolidation engineering and has evolved into advanced seismic modeling, driven by a desire to contribute to disaster risk reduction and community resilience.
 
 ---
 
-## 🎯 Research Interests
+## 🎓 Educational Background
 
-### Primary Focus Areas
-- **Earthquake Simulation & Modeling**
-  - Stochastic finite-fault modeling for historical events
-  - Ground motion prediction and validation
-  - Seismic source characterization
-
-- **Multi-Hazard Risk Assessment**
-  - Earthquake-landslide cascade modeling
-  - Spatial correlation analysis
-  - Infrastructure vulnerability assessment
-
-- **High-Performance Computing in Geoscience**
-  - Large-scale numerical simulations
-  - Parallel processing workflows
-  - Reproducible research pipelines
-
-### Emerging Research Directions
-- **AI/ML Applications in Geohazards**
-  - Machine learning for landslide susceptibility
-  - Neural networks for ground motion simulation
-  - Automated hazard detection systems
-
-- **Climate Change & Geohazards**
-  - Climate-induced landslide dynamics
-  - Extreme weather event impacts
-  - Long-term hazard evolution
-
-
----
-
-## 📚 Education
-
-### Current Position
-**Graduate Researcher** *(Jun 2024 - Present)*
+### **M.Sc. Geology** *(Jun 2024 - Present)*
 - **Institution**: National Institute of Natural Hazards (MEMC-CAS)
-- **Supervisor**: Prof. Jia Cheng, China University of Geosciences
-- **Research Area**: Seismogenic-Fault Multi-Hazard Prediction
+- **Thesis**: *Seismogenic-Fault Multi-Hazard Prediction*
+- **Advisor**: Prof. Jia Cheng
+- **Focus**: Advanced seismic modeling and multi-hazard assessment
 
-### Educational Journey
-- **M.Sc. Geology** - UCAS *(2023-2024)*
-  - Focus: Advanced geophysics and computational methods
+### **Coursework Phase** *(Sep 2023 - Jun 2024)*
+- **Institution**: University of Chinese Academy of Sciences (UCAS)
+- **GPA**: 3.7/4.0
+- **Key Areas**: Seismic Inversion, GIS Applications, Remote Sensing, Advanced Mathematics
 
-
-- **B.Sc. Engineering** - Chang'an University *(2019-2023)*
-  - Specialization: Land consolidation and disaster prevention
-
-
----
-
-## 📊 Research Outputs
-
-### Academic Papers
-- **In Preparation**: Multi-hazard risk assessment methodology for seismic fault zones
-- **Published**: Stochastic modeling of 1833 Songming earthquake (Journal of Seismological Research)
-- **Research Support**: Contributing to earthquake-landslide cascade analysis framework development
-
-### Research Participation
-- **Active Projects**: Participating in National Natural Science Foundation projects (42074064，42474084，U2039201)
-- **Supervision**: Prof. Jia Cheng 
-- **Focus Areas**: Historical earthquake simulation, multi-hazard risk assessment, field geology
-- **Open Source Contribution**: [SeisRiskSim](https://github.com/chaohuifeng/seis-risk-sim) - SFFM workflow for seismic modeling
+### **B.Sc. Land Consolidation Engineering** *(2019 - 2023)*
+- **Institution**: Chang'an University
+- **GPA**: 3.35/5.0 *(Ranked in top 13%)*
+- **Foundation**: Land surveying, soil mechanics, disaster prevention, GIS, remote sensing
 
 ---
 
-## 🎯 Future Goals
+## 🚀 Career Journey
 
-### Short-term *(1-2 years)*
-- Complete PhD applications and secure funding
-- Publish 2-3 high-impact journal papers
-- Develop open-source geohazard analysis platform
+### **Current Position** *(2023 - Present)*
+- **Role**: Research Assistant
+- **Institution**: National Institute of Natural Hazards (MEMC-CAS)
+- **Supervision**: Prof. Jia Cheng
+- **Focus**: Multi-hazard risk assessment and earthquake simulation
 
-### Long-term *(3-5 years)*
-- Establish independent research program
-- Lead international collaborative projects
-- Contribute to policy-making for disaster risk reduction
-
----
-
-## 🏠 Personal Life
-
-When not immersed in research, I enjoy:
-- **Outdoor Activities**: Hiking, photography, and field geology
-- **Technology**: Exploring new computational tools and methods
-- **Continuous Learning**: Following advances in geoscience and technology
+### **Research Evolution**
+- **2019-2023**: Land consolidation and disaster prevention engineering
+- **2023-2024**: Seismic modeling and GIS applications
+- **2024-Present**: Advanced SFFM modeling and multi-hazard assessment
 
 ---
 
-## 📬 Let's Connect
+## 🌟 Personal Interests & Values
 
-I'm always interested in:
-- **Research Collaborations**: Joint projects and data sharing
-- **Academic Discussions**: Methodological challenges and solutions
-- **Student Mentoring**: Supporting the next generation of researchers
-- **Industry Partnerships**: Applied research and technology transfer
+### **Research Philosophy**
+- **Interdisciplinary Approach**: Combining engineering, geoscience, and computational methods
+- **Practical Impact**: Developing tools that can be used by emergency planners and policymakers
+- **Open Science**: Contributing to the open-source community in geoscience
 
-<div class="contact-section">
-  <p><strong>Ready to collaborate?</strong> Let's discuss how we can advance geohazard research together.</p>
-  <a href="mailto:fengchaohui23@mails.ucas.ac.cn" class="cta-button">Start a Conversation</a>
+### **Professional Goals**
+- **Short-term**: Complete PhD applications and advance current research projects
+- **Long-term**: Lead research teams in multi-hazard assessment and contribute to disaster risk reduction policies
+
+### **Collaboration Style**
+- **Team Player**: Enjoy working in interdisciplinary research groups
+- **Knowledge Sharing**: Believe in open collaboration and data sharing
+- **Mentorship**: Value both learning from experienced researchers and helping junior colleagues
+
+---
+
+## 🏆 Recognition & Awards
+
+### **Academic Achievements**
+- **1st Prize**, National Land-Restoration Engineering Competition *(2022)*
+  - **Role**: Team Leader
+  - **Advisor**: Prof. Lei Han, Chang'an University
+  - **Impact**: Applied disaster-chain analysis to land consolidation challenges
+
+### **Research Contributions**
+- **Open Source Development**: SeisRiskSim package for seismic modeling
+- **Field Work**: Geological mapping and landslide inventory compilation
+- **Methodology**: Development of validation frameworks for ground motion prediction
+
+---
+
+## 🔗 Professional Networks
+
+### **Academic Profiles**
+- **GitHub**: [github.com/chaohuifeng](https://github.com/chaohuifeng)
+- **ResearchGate**: [researchgate.net/profile/Chaohui-Feng](https://www.researchgate.net/profile/Chaohui-Feng)
+
+### **Research Communities**
+- **CGU**: Chinese Geophysical Union
+- **Earthquake Hazard Chain Committee**: Active member and presenter
+- **Open Source Geoscience**: Contributor to community tools
+
+---
+
+## 📍 Personal Life
+
+### **Location & Mobility**
+- **Current**: Beijing, China
+- **Open to**: International research opportunities and collaborations
+- **Languages**: Chinese (Native), English (Professional)
+
+### **Interests Beyond Research**
+- **Technology**: Following developments in AI/ML for geoscience applications
+- **Outdoor Activities**: Field geology and nature exploration
+- **Community**: Engaging with the broader geoscience community
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in connecting with fellow researchers, potential collaborators, and anyone passionate about geoscience and disaster risk reduction.
+
+**Preferred Contact**: [fengchaohui23@mails.ucas.ac.cn](mailto:fengchaohui23@mails.ucas.ac.cn)
+
+**Areas for Discussion**:
+- Research collaboration opportunities
+- Data sharing and joint publications
+- Field study partnerships
+- Open source development
+- Career advice and mentorship
+
+---
+
+<div class="about-cta">
+  <h3>Ready to Collaborate?</h3>
+  <p>Whether you're interested in research partnerships, data sharing, or just want to discuss geoscience, I'd love to hear from you!</p>
+  <a href="mailto:fengchaohui23@mails.ucas.ac.cn" class="about-button">Get in Touch</a>
 </div>
+
+<style>
+.about-cta {
+  background: linear-gradient(135deg, #f8f9fa 0%, #e8f4f8 100%);
+  padding: 2.5rem;
+  border-radius: 15px;
+  text-align: center;
+  margin: 3rem 0;
+  border: 2px solid #3498db;
+}
+
+.about-cta h3 {
+  color: #1a4a6b;
+  margin-top: 0;
+}
+
+.about-cta p {
+  font-size: 1.1rem;
+  color: #5a6c7d;
+  margin-bottom: 1.5rem;
+}
+
+.about-button {
+  display: inline-block;
+  padding: 1rem 2rem;
+  background: #3498db;
+  color: white;
+  border-radius: 25px;
+  text-decoration: none;
+  font-weight: 600;
+  transition: all 0.3s ease;
+}
+
+.about-button:hover {
+  background: #1a4a6b;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 15px rgba(52,152,219,0.4);
+}
+</style>
