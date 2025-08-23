@@ -12,8 +12,8 @@ My research focuses on advancing our understanding of earthquake simulation and 
 
 ## 🚀 Current Research Projects
 
-### National Key R&D Program of China
-**Multi-Hazard Risk Mapping for Seismic Fault Zones** *(Jan 2025 - Present)*
+### Multi-Hazard Risk Assessment Research
+**Participating in National Natural Science Foundation Projects** *(2023 - Present)*
 
 <div class="project-card">
   <div class="project-header">
@@ -22,43 +22,44 @@ My research focuses on advancing our understanding of earthquake simulation and 
   </div>
   
   <div class="project-details">
-    <p><strong>Role:</strong> Core Researcher under Prof. Jia Cheng</p>
+    <p><strong>Role:</strong> Research Assistant under Prof. Jia Cheng</p>
     <p><strong>Institution:</strong> National Institute of Natural Hazards (MEMC-CAS)</p>
-    <p><strong>Funding:</strong> National Key R&D Program of China</p>
+    <p><strong>Funding Support:</strong> National Natural Science Foundation of China (NSFC) Projects (42074064, 42474084, U2039201)</p>
+    <p><strong>Principal Investigator:</strong> Prof. Jia Cheng</p>
   </div>
   
   <div class="project-objectives">
-    <h4>Research Objectives</h4>
+    <h4>Research Focus Areas</h4>
     <ul>
-      <li>Reconstruct intensity fields for 9 historical earthquakes along Xianshuihe Fault Zone</li>
-      <li>Develop multi-hazard risk assessment framework integrating seismic and landslide cascades</li>
-      <li>Create decision-support tools for infrastructure resilience planning</li>
+      <li>Historical earthquake intensity field reconstruction along Xianshuihe Fault Zone</li>
+      <li>Multi-hazard risk assessment framework development</li>
+      <li>Earthquake-landslide cascade modeling and analysis</li>
     </ul>
   </div>
   
   <div class="project-methodology">
-    <h4>Methodology</h4>
+    <h4>My Contributions</h4>
     <ul>
-      <li><strong>Data Integration:</strong> Historical records, modern geodetic datasets, and field surveys</li>
-      <li><strong>Modeling Approach:</strong> Python-based HPC pipelines for large-scale data processing</li>
-      <li><strong>Validation:</strong> Field validation and cross-referencing with existing studies</li>
+      <li><strong>Data Processing:</strong> Historical earthquake data compilation and validation</li>
+      <li><strong>Modeling Support:</strong> Python-based analysis pipelines for seismic data</li>
+      <li><strong>Field Work:</strong> Geological mapping and landslide inventory compilation</li>
     </ul>
   </div>
   
   <div class="project-outcomes">
-    <h4>Expected Outcomes</h4>
+    <h4>Expected Contributions</h4>
     <ul>
-      <li>1st-author manuscript on multi-hazard risk assessment framework</li>
-      <li>3rd-author patent submission on integrated ground motion-landslide prediction</li>
-      <li>Open-source tools for geohazard analysis</li>
+      <li>1st-author manuscript on multi-hazard risk assessment methodology</li>
+      <li>Technical support for integrated ground motion-landslide prediction framework</li>
+      <li>Development of open-source tools for geohazard analysis</li>
     </ul>
   </div>
 </div>
 
 ---
 
-### NSFC General Program
-**Stochastic Ground-Motion Modelling for Historical Earthquakes** *(Jun 2024 - Apr 2025)*
+### Historical Earthquake Simulation Study
+**Stochastic Ground-Motion Modelling Research** *(Jun 2024 - Apr 2025)*
 
 <div class="project-card">
   <div class="project-header">
@@ -67,9 +68,10 @@ My research focuses on advancing our understanding of earthquake simulation and 
   </div>
   
   <div class="project-details">
-    <p><strong>Role:</strong> Lead Analyst</p>
+    <p><strong>Role:</strong> Research Assistant</p>
     <p><strong>Institution:</strong> University of Chinese Academy of Sciences</p>
-    <p><strong>Funding:</strong> National Natural Science Foundation of China</p>
+    <p><strong>Funding Support:</strong> National Natural Science Foundation of China (NSFC) Projects (42074064, 42474084, U2039201)</p>
+    <p><strong>Supervision:</strong> Prof. Jia Cheng</p>
   </div>
   
   <div class="project-objectives">
@@ -82,9 +84,9 @@ My research focuses on advancing our understanding of earthquake simulation and 
   </div>
   
   <div class="project-methodology">
-    <h4>Methodology</h4>
+    <h4>My Contributions</h4>
     <ul>
-      <li><strong>Simulation Framework:</strong> SFFM with ObsPy and custom Python modules</li>
+      <li><strong>Simulation Framework:</strong> SFFM implementation with ObsPy and custom Python modules</li>
       <li><strong>Data Processing:</strong> PGA time-history simulation and GIS validation</li>
       <li><strong>Validation:</strong> Comparison with historical intensity records</li>
     </ul>
@@ -127,8 +129,8 @@ My research employs a multi-layered computational approach:
 
 ### Academic Publications
 - **In Preparation**: Multi-hazard risk assessment framework for Xianshuihe Fault Zone
-- **Published**: Stochastic modeling of 1833 Songming earthquake (Journal of Seismological Research)
-- **Under Review**: Earthquake-landslide cascade analysis methodology
+- **Published**: Stochastic modeling of 1833 Songming earthquake (Journal of Seismological Research, in chinese)
+
 
 ### Technical Reports
 - **Government Reports**: Regional hazard assessment for emergency planning
@@ -176,9 +178,9 @@ I'm actively seeking collaborations in:
 ## 📚 Research Resources
 
 ### Open Source Tools
-- **SeisRiskSim**: Python library for stochastic seismic hazard simulation
-- **LandslideCoupler**: GIS-integrated pipeline for earthquake-landslide analysis
-- **GeoHazardDB**: Database management system for geohazard data
+- **[SeisRiskSim](https://github.com/chaohuifeng/seis-risk-sim)**: Python workflow for Stochastic Finite Fault Method (SFFM) and strong-motion fault modeling, with SFFM component derived from exsim_dmb
+- **LandslideCoupler**: GIS-integrated pipeline for earthquake-landslide analysis (in development)
+- **GeoHazardDB**: Database management system for geohazard data (in development)
 
 ### Datasets
 - **Historical Earthquake Catalog**: Comprehensive database of historical seismic events

@@ -45,7 +45,7 @@ My research focuses on **bridging the gap between theoretical seismic modeling a
 ### Emerging Research Directions
 - **AI/ML Applications in Geohazards**
   - Machine learning for landslide susceptibility
-  - Neural networks for ground motion prediction
+  - Neural networks for ground motion simulation
   - Automated hazard detection systems
 
 - **Climate Change & Geohazards**
@@ -53,20 +53,10 @@ My research focuses on **bridging the gap between theoretical seismic modeling a
   - Extreme weather event impacts
   - Long-term hazard evolution
 
----
-
-## 🛠️ Technical Skills
-
-
-### Domain-Specific Tools
-- **Seismic Analysis**: ObsPy, OpenQuake, SAC, SEISAN
-- **Numerical Modeling**: COMSOL, FLAC3D, OpenFOAM
-- **Statistical Analysis**: R, SPSS, Origin
-- **Visualization**: GMT, ParaView, Blender
 
 ---
 
-## 📚 Academic Background
+## 📚 Education
 
 ### Current Position
 **Graduate Researcher** *(Jun 2024 - Present)*
@@ -82,49 +72,21 @@ My research focuses on **bridging the gap between theoretical seismic modeling a
 - **B.Sc. Engineering** - Chang'an University *(2019-2023)*
   - Specialization: Land consolidation and disaster prevention
 
----
-
-## 🌟 Professional Development
-
-### Research Leadership
-- **Project Management**: Leading multi-institutional research initiatives
-- **Team Coordination**: Supervising undergraduate research assistants
-- **Methodology Development**: Creating standardized analysis workflows
-
-### Knowledge Transfer
-- **Academic Mentoring**: Guiding junior researchers in computational methods
-- **Workshop Facilitation**: Leading training sessions on geohazard modeling
-- **Open Source Contribution**: Developing tools for the geoscience community
 
 ---
 
-## 🌍 Field Experience
-
-### Field Campaigns
-- **Xianshuihe Fault Zone Survey** *(2024-2025)*
-  - Geological mapping and fault characterization
-  - Landslide inventory compilation
-  - Ground truthing for simulation validation
-
-- **Historical Earthquake Sites** *(2023-2024)*
-  - Intensity field reconstruction
-  - Damage pattern analysis
-  - Site effect assessment
-
-
----
-
-## 📊 Publications & Outputs
+## 📊 Research Outputs
 
 ### Academic Papers
-- **In Preparation**: Multi-hazard risk assessment for Xianshuihe Fault Zone
-- **Published**: Stochastic modeling of 1833 Songming earthquake
-- **Patent**: Earthquake-landslide cascade analysis framework
+- **In Preparation**: Multi-hazard risk assessment methodology for seismic fault zones
+- **Published**: Stochastic modeling of 1833 Songming earthquake (Journal of Seismological Research)
+- **Research Support**: Contributing to earthquake-landslide cascade analysis framework development
 
-### Technical Reports
-- **Government Reports**: Hazard assessment for regional planning
-- **Industry Collaborations**: Infrastructure risk evaluation studies
-- **Open Source Tools**: SeisRiskSim and LandslideCoupler packages
+### Research Participation
+- **Active Projects**: Participating in National Natural Science Foundation projects (42074064，42474084，U2039201)
+- **Supervision**: Prof. Jia Cheng 
+- **Focus Areas**: Historical earthquake simulation, multi-hazard risk assessment, field geology
+- **Open Source Contribution**: [SeisRiskSim](https://github.com/chaohuifeng/seis-risk-sim) - SFFM workflow for seismic modeling
 
 ---
 
@@ -147,7 +109,6 @@ My research focuses on **bridging the gap between theoretical seismic modeling a
 When not immersed in research, I enjoy:
 - **Outdoor Activities**: Hiking, photography, and field geology
 - **Technology**: Exploring new computational tools and methods
-- **Community Service**: Volunteering for science outreach programs
 - **Continuous Learning**: Following advances in geoscience and technology
 
 ---

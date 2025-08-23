@@ -30,23 +30,27 @@ I specialize in **earthquake simulation and cascading geo-hazards research**, wi
 
 ## 🔬 Current Research Projects
 
-### National Key R&D Program of China
-**Multi-Hazard Risk Mapping for Seismic Fault Zones** *(Jan 2025 - Present)*
-- **Role**: Core Researcher under [Prof. Jia Cheng](https://www.researchgate.net/profile/Jia-Cheng-13)
-- **Focus**: Reconstructing intensity fields for 9 historical earthquakes along Xianshuihe Fault Zone
-- **Outcomes**: 
-  - 1st-author manuscript in preparation
-  - 3rd-author patent submission on integrated ground motion-landslide prediction
+### Multi-Hazard Risk Assessment Research
+**Participating in National Natural Science Foundation Projects** *(2023 - Present)*
+- **Role**: Research Assistant under [Prof. Jia Cheng](https://www.researchgate.net/profile/Jia-Cheng-13)
+- **Funding Support**: National Natural Science Foundation of China (NSFC) Projects (42074064, 42474084, U2039201)
+- **Focus**: Historical earthquake intensity field reconstruction and multi-hazard risk assessment
+- **My Contributions**: 
+  - Data processing and validation for seismic analysis
+  - Python-based modeling pipelines development
+  - Field geological mapping support
 
-### NSFC General Program
-**Stochastic Ground-Motion Modelling for Historical Earthquakes** *(Jun 2024 - Apr 2025)*
-- **Role**: Lead Analyst
+### Historical Earthquake Simulation Study
+**Stochastic Ground-Motion Modelling Research** *(Jun 2024 - Apr 2025)*
+- **Role**: Research Assistant under Prof. Jia Cheng
+- **Funding Support**: National Natural Science Foundation of China (NSFC) Projects (42074064, 42474084, U2039201)
 - **Achievement**: 1st-author paper accepted in *Journal of Seismological Research(in Chinese)*
 - **Method**: SFFM simulation of 1833 Songming M8 earthquake with non-uniform slip distributions
 
 ### Earthquake-Landslide Cascade  
 - **Stack**: ArcGIS Pro, PostgreSQL/PostGIS, GMT  
 - **Ready-to-Share**: PGA, PGV, and PSA datasets from historical earthquake simulations
+- **Open Source**: [SeisRiskSim](https://github.com/chaohuifeng/seis-risk-sim) - SFFM workflow for seismic hazard simulation
 
 ## 🛠️ Technical Expertise
 

@@ -15,9 +15,9 @@ This page showcases my academic contributions, including published papers, confe
 ### Published Papers
 
 #### 1. Stochastic Ground-Motion Modelling for Historical Earthquakes
-**Journal**: *Journal of Seismological Research*  
+**Journal**: *Journal of Seismological Research (in Chinese)*  
 **Status**: ✅ Accepted  
-**Year**: 2024  
+**Year**: 2025  
 **Authors**: Feng, C., Cheng, J. ,  Wang, Z.
 **DOI**: [Pending]  
 
@@ -27,21 +27,14 @@ This page showcases my academic contributions, including published papers, confe
 
 ### Papers in Preparation
 
-#### 1. Multi-Hazard Risk Assessment Framework for Seismic Fault Zones
-**Target Journal**: *Natural Hazards and Earth System Sciences*  
+#### Earthquake-Landslide Cascade Analysis: A Case Study of Xianshuihe Fault Zone
 **Status**: 🔄 In Preparation  
-**Expected Submission**: Q2 2025  
 
-#### 2. Earthquake-Landslide Cascade Analysis: A Case Study of Xianshuihe Fault Zone
-**Target Journal**: *Engineering Geology*  
-**Status**: 🔄 In Preparation  
-**Expected Submission**: Q3 2025  
 
 ---
 
 ## 🎤 Conference Presentations
 
-### 2025 Presentations
 
 #### Chinese Geoscience Union (CGU) Annual Meeting
 - **Title**: *Intensity Field Reconstruction and Earthquake-Landslide Cascades of Xianshuihe Fault*  
@@ -49,7 +42,6 @@ This page showcases my academic contributions, including published papers, confe
 - **Venue**: Chengdu, China  
 - **Status**: ✅ Accepted  
 
-### 2024 Presentations
 
 #### Annual Academic Conference of the Earthquake Hazard Chain Committee
 - **Title**: *Seismic-Hazard Simulation of the 1833 Songming Earthquake Based on SFFM*  
@@ -64,12 +56,7 @@ This page showcases my academic contributions, including published papers, confe
 ### SeisRiskSim
 **Description**: Python library for stochastic seismic hazard simulation  
 **Status**: 🔄 In Development  
-**Repository**: [github.com/chaohuifeng/seis-risk-sim](https://github.com/chaohuifeng/seis-risk-sim)  
-
-### LandslideCoupler
-**Description**: GIS-integrated pipeline for earthquake-landslide cascade analysis  
-**Status**: 🔄 In Development  
-**Repository**: [github.com/chaohuifeng/landslide-coupler](https://github.com/chaohuifeng/landslide-coupler)  
+**Repository**: [github.com/chaohuifeng/seis-risk-sim](https://github.com/chaohuifeng/seis-risk-sim-sffm-exsim)  
 
 ---
 
@@ -77,26 +64,6 @@ This page showcases my academic contributions, including published papers, confe
 
 ### Current Collaborators
 - **Prof. Jia Cheng** (China University of Geosciences) - Primary supervisor and research partner
-- **Regional Emergency Management Agencies** - Applied research and validation
-- **Civil Engineering Firms** - Infrastructure risk assessment projects
-
----
-
-## 📋 Publication Pipeline
-
-### 2025 Planned Submissions
-1. **Q1**: Multi-hazard risk assessment framework paper
-2. **Q2**: Earthquake-landslide cascade analysis paper
-3. **Q3**: Open source tool documentation and user guide
-4. **Q4**: Conference abstracts for 2026 meetings
-
----
-
-## 🌟 Recognition & Awards
-
-### Academic Recognition
-- **Research Excellence Award** - UCAS Graduate School *(2024)*
-- **Best Student Paper** - Earthquake Hazard Chain Conference *(2024)*
 
 ---
 
