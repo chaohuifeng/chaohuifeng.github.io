@@ -22,7 +22,7 @@ My research focuses on advancing our understanding of earthquake simulation and 
   </div>
   
   <div class="project-details">
-         <p><strong>Role:</strong> Student Researcher under Prof. Jia Cheng</p>
+    <p><strong>Role:</strong> Student Researcher under Prof. Jia Cheng</p>
     <p><strong>Institution:</strong> National Institute of Natural Hazards (MEMC-CAS)</p>
     <p><strong>Funding Support:</strong> National Natural Science Foundation of China (NSFC) Projects (42074064, 42474084, U2039201)</p>
     <p><strong>Principal Investigator:</strong> Prof. Jia Cheng</p>
@@ -67,9 +67,9 @@ My research focuses on advancing our understanding of earthquake simulation and 
     <span class="project-status completed">Completed</span>
   </div>
   
-  <div class="project-details">
-         <p><strong>Role:</strong> Student Researcher</p>
-    <p><strong>Institution:</strong> University of Chinese Academy of Sciences</p>
+    <div class="project-details">
+     <p><strong>Role:</strong> Student Researcher</p>
+     <p><strong>Institution:</strong> University of Chinese Academy of Sciences</p>
     <p><strong>Funding Support:</strong> National Natural Science Foundation of China (NSFC) Projects (42074064, 42474084, U2039201)</p>
     <p><strong>Supervision:</strong> Prof. Jia Cheng</p>
   </div>
