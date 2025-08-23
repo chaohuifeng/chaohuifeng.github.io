@@ -29,7 +29,7 @@ I'm always interested in connecting with fellow researchers, potential collabora
 
 **National Institute of Natural Hazards (MEMC-CAS)**  
 Beijing, China  
-Position: Graduate Researcher  
+Position: Student Researcher  
 Supervisor: Prof. Jia Cheng [researchgate.net/profile/Jia-Cheng-13](https://www.researchgate.net/profile/Jia-Cheng-13)
 
 ---

@@ -37,7 +37,7 @@ My research journey began with land consolidation engineering and has evolved in
 ## 🚀 Career Journey
 
 ### **Current Position** *(2023 - Present)*
-- **Role**: Research Assistant
+- **Role**: Student Researcher
 - **Institution**: National Institute of Natural Hazards (MEMC-CAS)
 - **Supervision**: Prof. Jia Cheng
 - **Focus**: Multi-hazard risk assessment and earthquake simulation

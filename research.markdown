@@ -22,7 +22,7 @@ My research focuses on advancing our understanding of earthquake simulation and 
   </div>
   
   <div class="project-details">
-    <p><strong>Role:</strong> Research Assistant under Prof. Jia Cheng</p>
+         <p><strong>Role:</strong> Student Researcher under Prof. Jia Cheng</p>
     <p><strong>Institution:</strong> National Institute of Natural Hazards (MEMC-CAS)</p>
     <p><strong>Funding Support:</strong> National Natural Science Foundation of China (NSFC) Projects (42074064, 42474084, U2039201)</p>
     <p><strong>Principal Investigator:</strong> Prof. Jia Cheng</p>
@@ -68,7 +68,7 @@ My research focuses on advancing our understanding of earthquake simulation and 
   </div>
   
   <div class="project-details">
-    <p><strong>Role:</strong> Research Assistant</p>
+         <p><strong>Role:</strong> Student Researcher</p>
     <p><strong>Institution:</strong> University of Chinese Academy of Sciences</p>
     <p><strong>Funding Support:</strong> National Natural Science Foundation of China (NSFC) Projects (42074064, 42474084, U2039201)</p>
     <p><strong>Supervision:</strong> Prof. Jia Cheng</p>
@@ -113,7 +113,7 @@ My research employs a multi-layered computational approach:
 |-----------|------------------|-------------|
 | **Data Processing** | Python (NumPy, Pandas), SQL | Data cleaning, validation, and preprocessing |
 | **Seismic Modeling** | ObsPy, OpenQuake, Custom SFFM | Ground motion simulation and validation |
-| **Spatial Analysis** | ArcGIS Pro, PostGIS, GMT | Geographic data processing and visualization |
+| **Spatial Analysis** | ArcGIS, PostGIS, GMT | Geographic data processing and visualization |
 | **HPC Workflows** | Fortran+MPI, Slurm, Docker | Large-scale simulations and reproducibility |
 | **Data Visualization** | Matplotlib, Plotly, Metabase | Results presentation and interactive dashboards |
 

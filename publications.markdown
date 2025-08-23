@@ -72,7 +72,7 @@ This page showcases my academic contributions, including published papers, confe
 ## 🔬 Research Collaborations
 
 ### Current Collaborators
-- **Prof. Jia Cheng** (National Institute of Natural Hazards, MEMC-CAS) - Primary supervisor and research partner
+- **Prof. Jia Cheng** (National Institute of Natural Hazards, MEMC-CAS) - Primary supervisor and research mentor
 
 ### Research Projects
 - **NSFC Project 42074064**: Historical earthquake intensity field reconstruction
