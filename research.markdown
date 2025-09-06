@@ -4,10 +4,6 @@ title: "Research Projects & Conference Presentations"
 description: "Current research projects, conference presentations, and academic contributions in earthquake simulation and multi-hazard risk assessment"
 ---
 
-# 🔬 Research Projects
-
-My research focuses on earthquake simulation and multi-hazard risk assessment through computational methods and data-driven approaches. I specialize in developing innovative methodologies for historical earthquake reconstruction, site-specific ground motion analysis, and multi-hazard risk assessment using advanced numerical modeling techniques.
-
 ---
 
 ## 📚 Published Research
@@ -24,7 +20,6 @@ My research focuses on earthquake simulation and multi-hazard risk assessment th
   <div class="research-content">
     <p><strong>Focus:</strong> Historical earthquake reconstruction using Stochastic Finite-Fault Method (SFFM) with four different rupture models</p>
     <p><strong>Methodology:</strong> Four distinct rupture models (F1-F6 asperity combinations) with site amplification analysis and validation against historical intensity data</p>
-    <p><strong>Status:</strong> Published </p>
     <p><strong>Funding:</strong> NSFC Project 42074064, NSFC Project 42474084, NSFC Project U2039201, MEMC Basic Research Project ZDJ2020-14</p>
   </div>
   

@@ -4,7 +4,6 @@ title: "About Me"
 description: "Personal background, education, and career journey in geoscience research"
 ---
 
-# 👨‍🎓 About Me
 
 
 ---

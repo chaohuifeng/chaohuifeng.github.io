@@ -4,7 +4,6 @@ title: "Publications & Academic Outputs"
 description: "Academic publications, conference presentations, and research contributions in earthquake simulation and geohazard research"
 ---
 
-# 📚 Academic Outputs
 
 ---
 
