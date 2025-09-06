@@ -65,27 +65,19 @@ This page showcases my academic contributions, including published papers, confe
 **Title**: Multi-hazard assessment framework for earthquake-landslide cascade modeling  
 **Status**: 🔄 Application submitted, under review  
 **Innovation**: Integrated approach combining seismic simulation with landslide susceptibility analysis  
-**Application Date**: 2024
+**Application Date**: 2025
 
 ---
 
 ## 🔬 Research Collaborations
 
 ### Current Collaborators
-- **Prof. Jia Cheng** (National Institute of Natural Hazards, MEMC-CAS) - Primary supervisor and research mentor
+- **Prof. Jia Cheng** - Primary supervisor and research mentor
 
 ### Research Projects
 - **NSFC Project 42074064**: Historical earthquake intensity field reconstruction
 - **NSFC Project 42474084**: Multi-hazard risk assessment framework
 - **NSFC Project U2039201**: Earthquake-landslide cascade modeling
-
----
-
-<div class="publication-cta">
-  <h3>Interested in My Research?</h3>
-  <p>I'm always open to discussing my research, sharing data, or collaborating on new projects. Feel free to reach out!</p>
-  <a href="/contact" class="cta-button">Get in Touch</a>
-</div>
 
 ---
 

@@ -29,29 +29,19 @@ I specialize in **earthquake simulation and cascading geo-hazards research**, wi
 
 ---
 
-## 🔬 Current Research Projects
+## 🔬 Current Research
 
-### Multi-Hazard Risk Assessment Research
-**Participating in National Natural Science Foundation Projects** *(2023 - Present)*
-- **Role**: Graduate Student under [Prof. Jia Cheng](https://www.researchgate.net/profile/Jia-Cheng-13)
-- **Funding Support**: National Natural Science Foundation of China (NSFC) Projects (42074064, 42474084, U2039201)
-- **Focus**: Historical earthquake intensity field reconstruction and multi-hazard risk assessment
-- **My Contributions**: 
-  - Data processing and validation for seismic analysis
-  - Python-based modeling pipelines development
-  - Field geological mapping support
+### Multi-Hazard Risk Assessment
+- **Funding**: NSFC Projects (42074064, 42474084, U2039201)
+- **Focus**: Historical earthquake intensity field reconstruction
+- **Method**: Stochastic Finite-Fault Method (SFFM) simulation
 
-### Historical Earthquake Simulation Study
-**Stochastic Ground-Motion Modelling Research** *(Jun 2024 - Apr 2025)*
-- **Role**: Graduate Student under Prof. Jia Cheng
-- **Funding Support**: National Natural Science Foundation of China (NSFC) Projects (42074064, 42474084, U2039201)
-- **Achievement**: 1st-author paper accepted in *Journal of Seismological Research* (pending publication)
-- **Method**: SFFM simulation of 1833 Songming M8 earthquake with non-uniform slip distributions
+### Published Research
+- **1833 Songming M8 Earthquake**: Four model comparison study (Published)
+- **Xianshuihe Fault**: Nine historical earthquakes reconstruction (In Progress)
 
-### Earthquake-Landslide Cascade  
-- **Stack**: ArcGIS, PostgreSQL/PostGIS, GMT  
-- **Ready-to-Share**: PGA, PGV, and PSA datasets from historical earthquake simulations
-- **Open Source**: [SeisRiskSim](https://github.com/chaohuifeng/seis-risk-sim) - SFFM workflow for seismic hazard simulation
+### Open Source Tools
+- **[SeisRiskSim](https://github.com/chaohuifeng/seis-risk-sim)**: SFFM workflow for seismic hazard simulation
 
 ---
 
@@ -68,39 +58,8 @@ I specialize in **earthquake simulation and cascading geo-hazards research**, wi
 
 ## 📚 Education
 
-### M.Sc. Geology *(Jun 2024 - Present)*
-- **Institution**: National Institute of Natural Hazards (MEMC-CAS)
-- **Thesis**: *Seismogenic-Fault Multi-Hazard Prediction*
-- **Advisor**: Prof. Jia Cheng
-- **Key Courses**: 
-  - Seismic Inversion
-  - GIS Applications in Geoscience
-  - Remote Sensing Laboratory
-  - Advanced Geophysics
-  - Computational Methods in Earth Sciences
-
-### Coursework Phase *(Sep 2023 - Jun 2024)*
-- **Institution**: University of Chinese Academy of Sciences (UCAS)
-- **GPA**: 3.7/4.0 *(no ranking)*
-- **Key Courses**:
-  - Seismic Inversion
-  - GIS Applications
-  - Remote Sensing Laboratory
-  - Advanced Mathematics for Geosciences
-  - Scientific Computing
-
-### B.Sc. Land Consolidation Engineering *(2019 - 2023)*
-- **Institution**: Chang'an University
-- **GPA**: 3.35/5.0 *(Ranked in top 13%)*
-- **Key Courses**:
-  - Land Surveying and Mapping
-  - Soil Mechanics and Foundation Engineering
-  - Land Use Planning
-  - Environmental Geology
-  - Disaster Prevention Engineering
-  - Geographic Information Systems
-  - Remote Sensing Technology
-  - Land Economics and Management
+- **M.Sc. Geology** (2024 - Present) - National Institute of Natural Hazards (MEMC-CAS)
+- **B.Sc. Land Consolidation Engineering** (2019 - 2023) - Chang'an University
 
 ---
 
@@ -144,10 +103,6 @@ I specialize in **earthquake simulation and cascading geo-hazards research**, wi
 
 ---
 
-<div class="collaboration-cta">
-  <h3>🤝 Let's Collaborate</h3>
-  <p>I'm open to research collaborations, data sharing, and academic discussions. If you're working on hazard-risk assessment, seismic modeling, or multi-hazard analysis, let's connect!</p>
-</div>
 
 <style>
 .hero-section {

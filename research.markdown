@@ -4,286 +4,149 @@ title: "Research Projects & Conference Presentations"
 description: "Current research projects, conference presentations, and academic contributions in earthquake simulation and multi-hazard risk assessment"
 ---
 
-# 🔬 Research Projects & Conference Presentations
+# 🔬 Research Projects
 
-My research focuses on advancing our understanding of earthquake simulation and cascading geo-hazards through computational methods and data-driven approaches.
-
----
-
-## 🚀 Current Research Projects
-
-### Multi-Hazard Risk Assessment Research
-**Participating in National Natural Science Foundation Projects** *(2023 - Present)*
-
-<div class="project-card">
-  <div class="project-header">
-    <h3>Project Overview</h3>
-    <span class="project-status active">Active</span>
-  </div>
-  
-  <div class="project-details">
-    <p><strong>Role:</strong> Student Researcher under Prof. Jia Cheng</p>
-    <p><strong>Institution:</strong> National Institute of Natural Hazards (MEMC), Beijing 100085, China</p>
-    <p><strong>Funding Support:</strong> National Natural Science Foundation of China (NSFC) Projects (42074064, 42474084, U2039201)</p>
-    <p><strong>Principal Investigator:</strong> Prof. Jia Cheng</p>
-  </div>
-  
-  <div class="project-objectives">
-    <h4>Research Focus Areas</h4>
-    <ul>
-      <li>Historical earthquake intensity field reconstruction along Xianshuihe Fault Zone</li>
-      <li>Multi-hazard risk assessment framework development</li>
-      <li>Earthquake-landslide cascade modeling and analysis</li>
-    </ul>
-  </div>
-  
-  <div class="project-methodology">
-    <h4>My Contributions</h4>
-    <ul>
-      <li><strong>Data Processing:</strong> Historical earthquake data compilation and validation</li>
-      <li><strong>Modeling Support:</strong> Python-based analysis pipelines for seismic data</li>
-      <li><strong>Field Work:</strong> Geological mapping and landslide inventory compilation</li>
-    </ul>
-  </div>
-  
-  <div class="project-outcomes">
-    <h4>Expected Contributions</h4>
-    <ul>
-      <li>1st-author manuscript on multi-hazard risk assessment methodology</li>
-      <li>Technical support for integrated ground motion-landslide prediction framework</li>
-      <li>Development of open-source tools for geohazard analysis</li>
-    </ul>
-  </div>
-</div>
+My research focuses on earthquake simulation and multi-hazard risk assessment through computational methods and data-driven approaches.
 
 ---
 
-## 🎤 Conference Presentations & Research
+## 📚 Published Research
 
-### CGU Annual Meeting 2025
-**Oral Presentation** - *Reconstructing Historical Strong Earthquakes on the Xianshuihe Fault using the Stochastic Finite‑Fault Method*
+### 1833 Songming M8.0 Earthquake Reconstruction
+**Published** - *Intensity-Field Simulation with Stochastic Finite-Fault Method*
 
-<div class="conference-card">
-  <div class="conference-header">
-    <h3>CGU 2025 - Historical Earthquake Reconstruction</h3>
-    <span class="conference-status active">Active Research</span>
+<div class="research-card">
+  <div class="research-header">
+    <h3>1833 Songming Earthquake: Four Model Comparison Study</h3>
+    <span class="research-status published">Published</span>
   </div>
   
-  <div class="conference-details">
-    <p><strong>Conference:</strong> CGU Annual Meeting 2025</p>
-    <p><strong>Type:</strong> Oral Presentation</p>
-    <p><strong>Focus:</strong> Multi-hazard risk assessment framework for Xianshuihe Fault Zone</p>
-    <p><strong>Status:</strong> Foundation for upcoming English manuscript</p>
-  </div>
-  
-  <div class="conference-objectives">
-    <h4>Research Objectives</h4>
-    <ul>
-      <li>Historical earthquake reconstruction using SFFM for nine major historical events</li>
-      <li>Validation framework against historical macroseismic records</li>
-      <li>Multi-hazard integration with landslide susceptibility analysis</li>
-      <li>Development of reproducible simulation workflows</li>
-    </ul>
-  </div>
-  
-  <div class="conference-outcomes">
-    <h4>Expected Outcomes</h4>
-    <ul>
-      <li>1st-author manuscript on multi-hazard risk assessment methodology for Xianshuihe Fault Zone</li>
-      <li>Technical framework for integrated ground motion-landslide prediction</li>
-      <li>Open-source tools for geohazard analysis</li>
-    </ul>
-  </div>
-  
-  <div class="conference-cta">
-    <a href="/conference/2025/" class="cta-button">View Full Conference Manuscript</a>
-  </div>
-</div>
-
----
-
-### 2024 Research: 1833 Songming Earthquake
-**Research Project** - *Intensity-Field Simulation with Stochastic Finite-Fault Method*
-
-<div class="conference-card">
-  <div class="conference-header">
-    <h3>2024 - 1833 Songming M8.0 Earthquake</h3>
-    <span class="conference-status completed">Completed</span>
-  </div>
-  
-  <div class="conference-details">
-    <p><strong>Research Period:</strong> June 2024 - December 2024</p>
-    <p><strong>Focus:</strong> Historical earthquake reconstruction using SFFM</p>
-    <p><strong>Status:</strong> Manuscript completed, pending publication</p>
+  <div class="research-content">
+    <p><strong>Focus:</strong> Historical earthquake reconstruction using SFFM with four different rupture models</p>
+    <p><strong>Key Finding:</strong> Model III (F3–F5 asperity) best reproduces epicentral intensity-X zone</p>
     <p><strong>Impact:</strong> Foundation for multi-hazard assessment methodology</p>
   </div>
   
-  <div class="conference-objectives">
-    <h4>Key Contributions</h4>
-    <ul>
-      <li>Multi-segment rupture testing with heterogeneous slip scenarios</li>
-      <li>Primary asperity identification (F3–F5) for intensity control</li>
-      <li>Region-specific site amplification corrections</li>
-      <li>Reproducible SFFM workflow for historical events</li>
-    </ul>
-  </div>
-  
-  <div class="conference-outcomes">
-    <h4>Achieved Outcomes</h4>
-    <ul>
-      <li>✅ Manuscript completed and ready for publication</li>
-      <li>✅ SFFM workflow validated against historical records</li>
-      <li>✅ Framework for future historical earthquake studies</li>
-    </ul>
-  </div>
-  
-  <div class="conference-cta">
-    <a href="/conference/2024/" class="cta-button">View Full Research Manuscript</a>
+  <div class="research-visualization">
+    <div class="image-gallery songming-gallery">
+      <div class="gallery-item">
+        <img src="/assets/images/1833Songming/1833songming_area.png" alt="1833 Songming Earthquake Research Area" />
+        <p class="image-caption">Research area and fault segments (F1-F6)</p>
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/1833Songming/1833songming_simulation.png" alt="1833 Songming Earthquake Simulation" />
+        <p class="image-caption">Four model comparison results showing intensity field simulation</p>
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/1833Songming/comparison of site amplification.png" alt="Site Amplification Comparison" />
+        <p class="image-caption">Comparison of site amplification effects before and after analysis</p>
+      </div>
+    </div>
   </div>
 </div>
 
 ---
 
-## 🔬 Research Methodology
+## 🔬 Current Research
+
+### Xianshuihe Fault Historical Earthquakes Reconstruction
+**In Progress** - *Nine Historical Earthquakes Analysis*
+
+<div class="research-card">
+  <div class="research-header">
+    <h3>CGU 2025: Xianshuihe Fault Historical Earthquakes</h3>
+    <span class="research-status active">In Progress</span>
+  </div>
+  
+  <div class="research-content">
+    <p><strong>Focus:</strong> Nine historical earthquakes reconstruction along Xianshuihe Fault Zone</p>
+    <p><strong>Status:</strong> English manuscript in preparation + Patent application submitted</p>
+    <p><strong>Methodology:</strong> SFFM validation against historical macroseismic records</p>
+  </div>
+  
+  <div class="research-visualization">
+    <div class="image-gallery">
+      <div class="gallery-item">
+        <img src="/assets/images/xianshuihe_fault/historical_earthquake_simulation.png" alt="Xianshuihe Fault Earthquake Distribution" />
+        <p class="image-caption">Historical earthquake distribution along Xianshuihe Fault Zone</p>
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/xianshuihe_fault/1893_daofu_earthquake.png" alt="1893 Daofu Earthquake Simulation" />
+        <p class="image-caption">1893 Daofu earthquake simulation results</p>
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/xianshuihe_fault/2022_luding_earthquake.png" alt="2022 Luding Earthquake Simulation" />
+        <p class="image-caption">2022 Luding earthquake simulation results</p>
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/xianshuihe_fault/2014_kangding_earthquake.png" alt="2014 Kangding Earthquake Simulation" />
+        <p class="image-caption">2014 Kangding earthquake simulation results</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+---
+
+### Myanmar Moguang Fault Site-Specific Analysis
+**International Collaboration** - *Ground Motion Analysis*
+
+<div class="research-card">
+  <div class="research-header">
+    <h3>Myanmar Moguang Fault Site-Specific Ground Motion</h3>
+    <span class="research-status active">Active</span>
+  </div>
+  
+  <div class="research-content">
+    <p><strong>Collaboration Partners:</strong> Prof. Xiwei Xu (CUG), Prof. Jia Cheng (CUG), Dr. Kang Li (MEMC)</p>
+    <p><strong>Focus:</strong> Site-specific ground motion analysis for Myanmar Moguang Fault near Myitsone Dam</p>
+    <p><strong>Status:</strong> Active international collaboration project</p>
+  </div>
+  
+  <div class="research-visualization">
+    <div class="image-gallery">
+      <div class="gallery-item">
+        <img src="/assets/images/projects/intensity.png" alt="Myanmar Site Intensity Simulation" />
+        <p class="image-caption">Intensity simulation results for Myanmar Moguang Fault site analysis</p>
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/projects/fault1_site1.png" alt="Fault 1 Site 1 Ground Motion Spectrum" />
+        <p class="image-caption">Ground motion spectrum simulation for Fault 1 - Site 1 analysis</p>
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/projects/fault1_site2.png" alt="Fault 1 Site 2 Ground Motion Spectrum" />
+        <p class="image-caption">Ground motion spectrum simulation for Fault 1 - Site 2 analysis</p>
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/projects/fault2_site1.png" alt="Fault 2 Site 1 Ground Motion Spectrum" />
+        <p class="image-caption">Ground motion spectrum simulation for Fault 2 - Site 1 analysis</p>
+      </div>
+      <div class="gallery-item">
+        <img src="/assets/images/projects/fault2_site2.png" alt="Fault 2 Site 2 Ground Motion Spectrum" />
+        <p class="image-caption">Ground motion spectrum simulation for Fault 2 - Site 2 analysis</p>
+      </div>
+    </div>
+  </div>
+</div>
+
+---
+
+## 🛠️ Research Methodology
 
 ### Computational Framework
-My research employs a multi-layered computational approach:
-
-| **Layer** | **Technologies** | **Purpose** |
-|-----------|------------------|-------------|
-| **Data Processing** | Python (NumPy, Pandas), SQL | Data cleaning, validation, and preprocessing |
-| **Seismic Modeling** | ObsPy, EXSIM_dmb, Custom SFFM | Ground motion simulation and validation |
-| **Spatial Analysis** | ArcGIS, PostGIS, GMT | Geographic data processing and visualization |
-| **HPC Workflows** | Fortran+MPI, Slurm, Docker | Large-scale simulations and reproducibility |
-| **Data Visualization** | Matplotlib, Plotly, Metabase | Results presentation and interactive dashboards |
-
-### Validation & Quality Assurance
-- **Field Validation**: Ground truthing through field surveys and geological mapping
-- **Cross-Validation**: Comparison with multiple datasets and methodologies
-- **Uncertainty Quantification**: Statistical analysis of model uncertainties
-- **Peer Review**: Regular review by research group and external collaborators
-
----
-
-## 🌟 Research Contributions
-
-### Academic Publications
-
-#### **Published Papers**
-- **In Preparation**: Multi-hazard risk assessment framework for Xianshuihe Fault Zone
-- **Pending Publication**: Stochastic modeling of 1833 Songming earthquake (Journal of Seismological Research, in Chinese)
-  - **Status**: Manuscript completed, under review
-  - **Focus**: SFFM simulation with non-uniform slip distributions
-
-#### **Conference Presentations**
-- **CGU Annual Meeting 2025**: Intensity field reconstruction and earthquake-landslide cascades
-- **Earthquake Hazard Chain Committee 2024**: SFFM-based seismic hazard simulation
-
-### Patents & Intellectual Property
-
-#### **Pending Patent**
-- **Title**: Multi-hazard assessment framework for earthquake-landslide cascade modeling
-- **Status**: Application in preparation
-- **Innovation**: Integrated approach combining seismic simulation with landslide susceptibility analysis
-
-### Technical Reports
-- **Government Reports**: Regional hazard assessment for emergency planning
-- **Industry Collaborations**: Infrastructure vulnerability studies
-- **Open Source Tools**: Development of geohazard analysis packages
-
----
-
-## 🔗 Research Continuity & Integration
-
-### Methodological Development
-My research demonstrates a clear progression:
-
-1. **2024 Research Foundation**: 1833 Songming earthquake study establishes SFFM workflow
-2. **2025 Conference Application**: Applied methodology to broader Xianshuihe Fault Zone study
-3. **Future Manuscript**: Integrating both studies into comprehensive multi-hazard framework
-
-### Integration with Main Research
-These projects directly contribute to my main research areas:
-
-- **Multi-Hazard Risk Assessment**: Earthquake-landslide cascade modeling
-- **Historical Event Reconstruction**: Physics-based approaches to pre-instrumental earthquakes
-- **Computational Seismology**: High-performance simulation workflows
-- **Geohazard Analysis**: Integrated approaches to natural disaster assessment
-
----
-
-## 🔮 Future Research Directions
-
-### Short-term Goals *(1-2 years)*
-- **AI/ML Integration**: Machine learning for landslide susceptibility mapping
-- **Real-time Monitoring**: Development of automated hazard detection systems
-- **Climate Impact**: Assessment of climate change effects on geohazard dynamics
-
-### Long-term Vision *(3-5 years)*
-- **Global Collaboration**: International research partnerships for multi-hazard assessment
-- **Policy Impact**: Contribution to disaster risk reduction policies
-- **Technology Transfer**: Commercialization of research tools and methodologies
-
----
-
-## 🤝 Collaboration Opportunities
-
-I'm actively seeking collaborations in:
-
-- **Multi-hazard Modeling**: Joint development of integrated risk assessment frameworks
-- **Data Sharing**: Exchange of seismic and geospatial datasets
-- **Methodology Development**: Collaborative improvement of computational approaches
-- **Field Studies**: Joint field campaigns and validation studies
-- **Open Source Development**: Community-driven tool development
-
-<div class="collaboration-cta">
-  <h3>Interested in Collaborating?</h3>
-  <p>Let's discuss how we can advance geohazard research together. I'm open to research partnerships, data sharing, and joint publications.</p>
-  <a href="mailto:fengchaohui23@mails.ucas.ac.cn" class="cta-button">Start a Conversation</a>
-</div>
-
----
-
-## 📚 Research Resources
+- **Seismic Modeling**: Stochastic Finite-Fault Method (SFFM) using EXSIM_dmb
+- **Data Processing**: Python (NumPy, Pandas) for data cleaning and validation
+- **Spatial Analysis**: ArcGIS, GMT for geographic data processing
+- **Validation**: Field surveys and historical macroseismic data comparison
 
 ### Open Source Tools
-- **[SeisRiskSim](https://github.com/chaohuifeng/seis-risk-sim)**: Python workflow for Stochastic Finite Fault Method (SFFM) and strong-motion fault modeling, with SFFM component derived from exsim_dmb
-- **LandslideCoupler**: GIS-integrated pipeline for earthquake-landslide analysis (in development)
-- **GeoHazardDB**: Database management system for geohazard data (in development)
-
-### Datasets
-- **Historical Earthquake Catalog**: Comprehensive database of historical seismic events
-- **Landslide Inventory**: Co-seismic landslide datasets with spatial correlation analysis
-- **Ground Motion Records**: Processed and validated ground motion time histories
-
-### Code Repositories
+- **[SeisRiskSim](https://github.com/chaohuifeng/seis-risk-sim)**: Python workflow for SFFM and strong-motion fault modeling
 - **GitHub**: [github.com/chaohuifeng](https://github.com/chaohuifeng)
 - **ResearchGate**: [researchgate.net/profile/Chaohui-Feng](https://www.researchgate.net/profile/Chaohui-Feng)
 
----
-
-## 📞 Contact & Inquiries
-
-**For Research Collaboration & Materials:**  
-📧 **Email:** [fengchaohui23@mails.ucas.ac.cn](mailto:fengchaohui23@mails.ucas.ac.cn)  
-🔬 **ResearchGate:** [researchgate.net/profile/Chaohui-Feng](https://www.researchgate.net/profile/Chaohui-Feng)  
-💻 **GitHub:** [github.com/chaohuifeng](https://github.com/chaohuifeng)
-
-**Institutional Affiliation:**  
-🏢 **National Institute of Natural Hazards (MEMC)**  
-📍 Beijing 100085, China  
-🔬 **Key Laboratory of Compound & Chain Natural Disaster Dynamics (MEMC)**  
-📍 Beijing 100085, China
-
----
-
-<div class="research-highlight">
-  <h3>🎯 Research Impact</h3>
-  <p>My research projects and conference presentations represent the foundation of my academic journey in earthquake simulation and multi-hazard assessment. The methodologies developed through these studies are directly contributing to ongoing research and future publications, while establishing frameworks for international collaboration and knowledge sharing in geohazard research.</p>
-</div>
-
 <style>
-.project-card, .conference-card {
+/* 研究卡片样式 */
+.research-card {
   background: white;
   border-radius: 12px;
   padding: 2rem;
@@ -292,20 +155,21 @@ I'm actively seeking collaborations in:
   border-left: 4px solid #3498db;
 }
 
-.project-header, .conference-header {
+.research-header {
   display: flex;
   justify-content: space-between;
   align-items: center;
   margin-bottom: 1.5rem;
 }
 
-.project-header h3, .conference-header h3 {
+.research-header h3 {
   margin: 0;
   color: #1a4a6b;
   border: none;
+  font-size: 1.3rem;
 }
 
-.project-status, .conference-status {
+.research-status {
   padding: 0.5rem 1rem;
   border-radius: 20px;
   font-size: 0.9rem;
@@ -313,164 +177,243 @@ I'm actively seeking collaborations in:
   text-transform: uppercase;
 }
 
-.project-status.active, .conference-status.active {
+.research-status.active {
   background: #e8f5e8;
   color: #27ae60;
 }
 
-.project-status.completed, .conference-status.completed {
+.research-status.published {
   background: #e8f4f8;
   color: #3498db;
 }
 
-.project-details, .conference-details {
+.research-content {
   background: #f8f9fa;
   padding: 1.5rem;
   border-radius: 8px;
   margin-bottom: 1.5rem;
 }
 
-.project-details p, .conference-details p {
+.research-content p {
   margin: 0.5rem 0;
   line-height: 1.6;
 }
 
-.project-objectives, .project-methodology, .project-outcomes, .conference-objectives, .conference-outcomes {
-  margin-bottom: 1.5rem;
+/* 图片画廊样式 */
+.image-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+  padding: 0 1rem;
 }
 
-.project-objectives h4, .project-methodology h4, .project-outcomes h4, .conference-objectives h4, .conference-outcomes h4 {
-  color: #2c5aa0;
-  margin-bottom: 1rem;
-  border: none;
-  font-size: 1.2rem;
-}
-
-.project-objectives ul, .project-methodology ul, .project-outcomes ul, .conference-objectives ul, .conference-outcomes ul {
-  margin-bottom: 0;
-  padding-left: 1.5rem;
-}
-
-.project-objectives li, .project-methodology li, .project-outcomes li, .conference-objectives li, .conference-outcomes li {
-  margin-bottom: 0.5rem;
-  line-height: 1.5;
-}
-
-.collaboration-cta, .conference-cta {
-  background: linear-gradient(135deg, #f8f9fa 0%, #e8f4f8 100%);
-  padding: 2.5rem;
-  border-radius: 15px;
-  text-align: center;
-  margin: 3rem 0;
-  border: 2px solid #3498db;
-}
-
-.conference-cta {
-  padding: 1.5rem;
-  margin: 1.5rem 0;
-}
-
-.collaboration-cta h3 {
-  color: #1a4a6b;
-  border: none;
-  margin-top: 0;
-}
-
-.collaboration-cta p {
-  font-size: 1.1rem;
-  color: #5a6c7d;
-  margin-bottom: 1.5rem;
-}
-
-.cta-button {
-  display: inline-block;
-  padding: 1rem 2rem;
-  background: #3498db;
-  color: white;
-  border-radius: 25px;
-  text-decoration: none;
-  font-weight: 600;
+.gallery-item {
+  background: white;
+  border-radius: 16px;
+  padding: 1rem;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+  border: 1px solid #e8f4f8;
   transition: all 0.3s ease;
+  overflow: hidden;
+  position: relative;
 }
 
-.cta-button:hover {
-  background: #1a4a6b;
-  transform: translateY(-2px);
-  box-shadow: 0 4px 15px rgba(52,152,219,0.4);
+.gallery-item:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.15);
+  border-color: #3498db;
 }
 
-.research-highlight {
-  background: linear-gradient(135deg, #f8f9fa 0%, #e8f4f8 100%);
-  padding: 2rem;
-  border-radius: 15px;
-  margin: 3rem 0;
-  border: 2px solid #3498db;
+.gallery-item img {
+  width: 100%;
+  height: auto;
+  min-height: 200px;
+  object-fit: contain;
+  border-radius: 12px;
+  margin-bottom: 1rem;
+  border: 1px solid #f0f0f0;
+  transition: transform 0.3s ease;
+  background: #fafafa;
 }
 
-.research-highlight h3 {
-  color: #1a4a6b;
-  border: none;
-  margin-top: 0;
+.gallery-item:hover img {
+  transform: scale(1.02);
 }
 
-.research-highlight p {
-  font-size: 1.1rem;
+.image-caption {
+  font-size: 0.85rem;
   color: #5a6c7d;
-  margin-bottom: 0;
-  line-height: 1.6;
+  text-align: center;
+  margin: 0;
+  line-height: 1.4;
+  font-weight: 500;
+  padding: 0 0.5rem;
+}
+
+/* 特殊布局：第一个图片占两列 */
+.image-gallery .gallery-item:first-child {
+  grid-column: span 2;
+}
+
+.image-gallery .gallery-item:first-child img {
+  height: auto;
+  min-height: 250px;
+}
+
+/* 特殊布局：根据图片数量调整 */
+.image-gallery {
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+}
+
+/* 1833年嵩明地震：3个图片布局，保持原始大小 */
+.songming-gallery {
+  grid-template-columns: 1fr 1fr 1fr !important;
+  max-width: 1200px;
+  margin: 2rem auto;
+}
+
+.songming-gallery .gallery-item img {
+  height: auto;
+  max-height: 350px;
+  object-fit: contain;
+}
+
+/* 2个图片：强制左右排列，大小一致 */
+.image-gallery:has(.gallery-item:nth-child(2):last-child) {
+  grid-template-columns: 1fr 1fr !important;
+  max-width: 800px;
+  margin: 2rem auto;
+}
+
+.image-gallery:has(.gallery-item:nth-child(2):last-child) .gallery-item img {
+  height: 300px;
+  object-fit: contain;
+}
+
+/* 3个图片：第一个大，后面两个小 */
+.image-gallery:has(.gallery-item:nth-child(3):last-child) {
+  grid-template-columns: 2fr 1fr 1fr;
+  grid-template-rows: auto auto;
+}
+
+.image-gallery:has(.gallery-item:nth-child(3):last-child) .gallery-item:first-child {
+  grid-column: span 1;
+  grid-row: span 2;
+}
+
+.image-gallery:has(.gallery-item:nth-child(3):last-child) .gallery-item:first-child img {
+  height: auto;
+  min-height: 400px;
+}
+
+/* 4个图片：2x2网格 */
+.image-gallery:has(.gallery-item:nth-child(4):last-child) {
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto auto;
+}
+
+.image-gallery:has(.gallery-item:nth-child(4):last-child) .gallery-item:first-child {
+  grid-column: span 1;
+  grid-row: span 1;
+}
+
+.image-gallery:has(.gallery-item:nth-child(4):last-child) .gallery-item:first-child img {
+  height: auto;
+  min-height: 200px;
+}
+
+/* 5个图片：第一个大，后面4个2x2 */
+.image-gallery:has(.gallery-item:nth-child(5):last-child) {
+  grid-template-columns: 2fr 1fr 1fr;
+  grid-template-rows: auto auto auto;
+}
+
+.image-gallery:has(.gallery-item:nth-child(5):last-child) .gallery-item:first-child {
+  grid-column: span 1;
+  grid-row: span 2;
+}
+
+.image-gallery:has(.gallery-item:nth-child(5):last-child) .gallery-item:first-child img {
+  height: auto;
+  min-height: 400px;
+}
+
+.research-visualization {
+  margin-top: 2rem;
+  padding-top: 2rem;
+  border-top: 2px solid #e8f4f8;
 }
 
 /* 响应式设计 */
 @media (max-width: 768px) {
-  .project-card, .conference-card {
+  .research-card {
     padding: 1.5rem;
     margin: 1.5rem 0;
   }
   
-  .project-header, .conference-header {
+  .research-header {
     flex-direction: column;
     align-items: flex-start;
     gap: 1rem;
   }
   
-  .project-details, .conference-details {
+  .research-content {
     padding: 1rem;
   }
   
-  .collaboration-cta, .conference-cta {
-    padding: 1.5rem;
-    margin: 1.5rem 0;
+  .image-gallery {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+    padding: 0;
   }
   
-  .research-highlight {
-    padding: 1.5rem;
-    margin: 1.5rem 0;
+  .gallery-item {
+    padding: 1rem;
   }
   
-  .cta-button {
-    padding: 0.8rem 1.5rem;
-    font-size: 0.9rem;
+  .gallery-item:first-child {
+    grid-column: span 1;
+  }
+  
+  .gallery-item img {
+    height: auto;
+    min-height: 180px;
+  }
+  
+  .gallery-item:first-child img {
+    height: auto;
+    min-height: 200px;
+  }
+  
+  /* 1833年嵩明地震：移动端单列显示 */
+  .songming-gallery {
+    grid-template-columns: 1fr !important;
+    max-width: none;
+  }
+  
+  .songming-gallery .gallery-item img {
+    height: auto;
+    max-height: 250px;
+    object-fit: contain;
+  }
+  
+  .image-gallery:has(.gallery-item:nth-child(2):last-child) .gallery-item img {
+    height: 250px;
+    object-fit: contain;
   }
 }
 
 @media (max-width: 480px) {
-  .project-card, .conference-card {
+  .research-card {
     padding: 1rem;
     margin: 1rem 0;
   }
   
-  .project-details, .conference-details {
+  .research-content {
     padding: 0.8rem;
-  }
-  
-  .collaboration-cta, .conference-cta {
-    padding: 1rem;
-    margin: 1rem 0;
-  }
-  
-  .research-highlight {
-    padding: 1rem;
-    margin: 1rem 0;
   }
 }
 </style>
+
+
