@@ -8,7 +8,7 @@ description: "Earthquake Simulation & Cascading Geo-Hazards Researcher"
   <div class="hero-content">
     <h1 class="hero-title">Chaohui Feng</h1>
     <p class="hero-subtitle">Earthquake Simulation & Cascading Geo-Hazards Researcher</p>
-    <p class="hero-location">National Institute of Natural Hazards (MEMC-CAS) | Beijing, China</p>
+    <p class="hero-location">National Institute of Natural Hazards (MEMC) | Beijing, China</p>
     <p class="hero-status">🔬 Currently seeking PhD opportunities in Geohazards Research</p>
     <div class="hero-contact">
       <a href="mailto:fengchaohui23@mails.ucas.ac.cn" class="contact-btn">📧 Contact Me</a>
@@ -25,7 +25,6 @@ I specialize in **earthquake simulation and cascading geo-hazards research**, wi
 - **Stochastic Finite-Fault Modeling** for historical earthquake reconstruction
 - **Multi-hazard risk assessment** integrating seismic and landslide cascades
 - **High-performance computing workflows** for large-scale geospatial analysis
-- **Decision-support tools** for infrastructure resilience planning
 
 ---
 
@@ -58,8 +57,10 @@ I specialize in **earthquake simulation and cascading geo-hazards research**, wi
 
 ## 📚 Education
 
-- **M.Sc. Geology** (2024 - Present) - National Institute of Natural Hazards (MEMC-CAS)
+- **M.Sc. Geology** (2024 - Present) - National Institute of Natural Hazards (MEMC)
+- **M.Sc. Geology Coursework Phase** (2023 - 2024) - University of Chinese Academy of Sciences
 - **B.Sc. Land Consolidation Engineering** (2019 - 2023) - Chang'an University
+
 
 ---
 

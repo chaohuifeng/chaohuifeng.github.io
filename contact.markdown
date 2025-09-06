@@ -27,7 +27,7 @@ I'm always interested in connecting with fellow researchers, potential collabora
 
 ## 🏢 Current Institution
 
-**National Institute of Natural Hazards (MEMC-CAS)**  
+**National Institute of Natural Hazards (MEMC)**  
 Beijing, China  
 Position: Student Researcher  
 Supervisor: Prof. Jia Cheng [researchgate.net/profile/Jia-Cheng-13](https://www.researchgate.net/profile/Jia-Cheng-13)

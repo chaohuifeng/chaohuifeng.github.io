@@ -6,7 +6,7 @@ description: "Current research projects, conference presentations, and academic 
 
 # 🔬 Research Projects
 
-My research focuses on earthquake simulation and multi-hazard risk assessment through computational methods and data-driven approaches.
+My research focuses on earthquake simulation and multi-hazard risk assessment through computational methods and data-driven approaches. I specialize in developing innovative methodologies for historical earthquake reconstruction, site-specific ground motion analysis, and multi-hazard risk assessment using advanced numerical modeling techniques.
 
 ---
 
@@ -22,9 +22,10 @@ My research focuses on earthquake simulation and multi-hazard risk assessment th
   </div>
   
   <div class="research-content">
-    <p><strong>Focus:</strong> Historical earthquake reconstruction using SFFM with four different rupture models</p>
-    <p><strong>Key Finding:</strong> Model III (F3–F5 asperity) best reproduces epicentral intensity-X zone</p>
-    <p><strong>Impact:</strong> Foundation for multi-hazard assessment methodology</p>
+    <p><strong>Focus:</strong> Historical earthquake reconstruction using Stochastic Finite-Fault Method (SFFM) with four different rupture models</p>
+    <p><strong>Methodology:</strong> Four distinct rupture models (F1-F6 asperity combinations) with site amplification analysis and validation against historical intensity data</p>
+    <p><strong>Status:</strong> Published </p>
+    <p><strong>Funding:</strong> NSFC Project 42074064, NSFC Project 42474084, NSFC Project U2039201, MEMC Basic Research Project ZDJ2020-14</p>
   </div>
   
   <div class="research-visualization">
@@ -40,8 +41,8 @@ My research focuses on earthquake simulation and multi-hazard risk assessment th
       <div class="gallery-item">
         <img src="/assets/images/1833Songming/comparison of site amplification.png" alt="Site Amplification Comparison" />
         <p class="image-caption">Comparison of site amplification effects before and after analysis</p>
-      </div>
-    </div>
+  </div>
+  </div>
   </div>
 </div>
 
@@ -59,9 +60,11 @@ My research focuses on earthquake simulation and multi-hazard risk assessment th
   </div>
   
   <div class="research-content">
-    <p><strong>Focus:</strong> Nine historical earthquakes reconstruction along Xianshuihe Fault Zone</p>
-    <p><strong>Status:</strong> English manuscript in preparation + Patent application submitted</p>
-    <p><strong>Methodology:</strong> SFFM validation against historical macroseismic records</p>
+    <p><strong>Focus:</strong> Systematic reconstruction of nine historical earthquakes along Xianshuihe Fault Zone using advanced numerical modeling</p>
+    <p><strong>Methodology:</strong> Stochastic Finite-Fault Method (SFFM) with site-specific parameters, historical data digitization, and fault geometry modeling for different rupture scenarios</p>
+    <p><strong>Status:</strong> English manuscript in preparation + Patent application submitted (2025)</p>
+    <p><strong>Collaboration:</strong> Prof. Jia Cheng (China University of Geosciences)</p>
+    <p><strong>Funding:</strong> NSFC Project 42074064, NSFC Project 42474084, NSFC Project U2039201, MEMC Basic Research Project ZDJ2020-14</p>
   </div>
   
   <div class="research-visualization">
@@ -81,8 +84,8 @@ My research focuses on earthquake simulation and multi-hazard risk assessment th
       <div class="gallery-item">
         <img src="/assets/images/xianshuihe_fault/2014_kangding_earthquake.png" alt="2014 Kangding Earthquake Simulation" />
         <p class="image-caption">2014 Kangding earthquake simulation results</p>
-      </div>
-    </div>
+  </div>
+  </div>
   </div>
 </div>
 
@@ -98,9 +101,10 @@ My research focuses on earthquake simulation and multi-hazard risk assessment th
   </div>
   
   <div class="research-content">
-    <p><strong>Collaboration Partners:</strong> Prof. Xiwei Xu (CUG), Prof. Jia Cheng (CUG), Dr. Kang Li (MEMC)</p>
-    <p><strong>Focus:</strong> Site-specific ground motion analysis for Myanmar Moguang Fault near Myitsone Dam</p>
-    <p><strong>Status:</strong> Active international collaboration project</p>
+    <p><strong>Focus:</strong> Site-specific ground motion analysis for Myanmar Moguang Fault near Myitsone Dam using advanced numerical modeling</p>
+    <p><strong>Methodology:</strong> Stochastic Finite-Fault Method (SFFM) with site-specific amplification analysis, multiple fault scenarios, and ground motion spectrum simulation for different return periods</p>
+    <p><strong>Status:</strong> Active international collaboration project with ongoing data collection and analysis</p>
+    <p><strong>Collaboration:</strong> Prof. Xiwei Xu (China University of Geosciences), Prof. Jia Cheng (China University of Geosciences), Dr. Kang Li (National Institute of Natural Hazards, MEMC)</p>
   </div>
   
   <div class="research-visualization">
@@ -129,20 +133,6 @@ My research focuses on earthquake simulation and multi-hazard risk assessment th
   </div>
 </div>
 
----
-
-## 🛠️ Research Methodology
-
-### Computational Framework
-- **Seismic Modeling**: Stochastic Finite-Fault Method (SFFM) using EXSIM_dmb
-- **Data Processing**: Python (NumPy, Pandas) for data cleaning and validation
-- **Spatial Analysis**: ArcGIS, GMT for geographic data processing
-- **Validation**: Field surveys and historical macroseismic data comparison
-
-### Open Source Tools
-- **[SeisRiskSim](https://github.com/chaohuifeng/seis-risk-sim)**: Python workflow for SFFM and strong-motion fault modeling
-- **GitHub**: [github.com/chaohuifeng](https://github.com/chaohuifeng)
-- **ResearchGate**: [researchgate.net/profile/Chaohui-Feng](https://www.researchgate.net/profile/Chaohui-Feng)
 
 <style>
 /* 研究卡片样式 */

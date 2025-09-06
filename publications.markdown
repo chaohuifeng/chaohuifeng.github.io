@@ -6,8 +6,6 @@ description: "Academic publications, conference presentations, and research cont
 
 # 📚 Academic Outputs
 
-This page showcases my academic contributions, including published papers, conference presentations, and ongoing research projects.
-
 ---
 
 ## 📖 Journal Publications
@@ -67,17 +65,6 @@ This page showcases my academic contributions, including published papers, confe
 **Innovation**: Integrated approach combining seismic simulation with landslide susceptibility analysis  
 **Application Date**: 2025
 
----
-
-## 🔬 Research Collaborations
-
-### Current Collaborators
-- **Prof. Jia Cheng** - Primary supervisor and research mentor
-
-### Research Projects
-- **NSFC Project 42074064**: Historical earthquake intensity field reconstruction
-- **NSFC Project 42474084**: Multi-hazard risk assessment framework
-- **NSFC Project U2039201**: Earthquake-landslide cascade modeling
 
 ---
 

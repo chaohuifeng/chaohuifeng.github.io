@@ -6,14 +6,13 @@ description: "Personal background, education, and career journey in geoscience r
 
 # 👨‍🎓 About Me
 
-I'm **Chaohui Feng**, a graduate student researcher specializing in earthquake simulation and multi-hazard risk assessment at the National Institute of Natural Hazards (MEMC-CAS).
 
 ---
 
 ## 🎓 Education
 
 ### **M.Sc. Geology** *(2024 - Present)*
-- **Institution**: National Institute of Natural Hazards (MEMC-CAS)
+- **Institution**: National Institute of Natural Hazards (MEMC)
 - **Thesis**: *Seismogenic-Fault Multi-Hazard Prediction*
 - **Advisor**: Prof. Jia Cheng
 
