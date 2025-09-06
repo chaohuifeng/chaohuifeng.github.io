@@ -109,6 +109,10 @@ description: "Current research projects, conference presentations, and academic 
         <p class="image-caption">Intensity simulation results for Myanmar Moguang Fault site analysis</p>
       </div>
       <div class="gallery-item">
+        <img src="/assets/images/projects/workflow.png" alt="Myanmar Site Analysis Workflow" />
+        <p class="image-caption">Analysis workflow for Myanmar Moguang Fault site-specific ground motion study</p>
+      </div>
+      <div class="gallery-item">
         <img src="/assets/images/projects/fault1_site1.png" alt="Fault 1 Site 1 Ground Motion Spectrum" />
         <p class="image-caption">Ground motion spectrum simulation for Fault 1 - Site 1 analysis</p>
       </div>
@@ -123,8 +127,8 @@ description: "Current research projects, conference presentations, and academic 
       <div class="gallery-item">
         <img src="/assets/images/projects/fault2_site2.png" alt="Fault 2 Site 2 Ground Motion Spectrum" />
         <p class="image-caption">Ground motion spectrum simulation for Fault 2 - Site 2 analysis</p>
-      </div>
-    </div>
+  </div>
+  </div>
   </div>
 </div>
 
@@ -324,6 +328,39 @@ description: "Current research projects, conference presentations, and academic 
   min-height: 400px;
 }
 
+/* 6个图片：左侧2张，右侧4张结果图 */
+.image-gallery:has(.gallery-item:nth-child(6):last-child) {
+  grid-template-columns: 1fr 2fr;
+  gap: 2rem;
+  max-width: 1200px;
+  margin: 2rem auto;
+}
+
+.image-gallery:has(.gallery-item:nth-child(6):last-child) .gallery-item:nth-child(1),
+.image-gallery:has(.gallery-item:nth-child(6):last-child) .gallery-item:nth-child(2) {
+  grid-column: 1;
+}
+
+.image-gallery:has(.gallery-item:nth-child(6):last-child) .gallery-item:nth-child(3),
+.image-gallery:has(.gallery-item:nth-child(6):last-child) .gallery-item:nth-child(4),
+.image-gallery:has(.gallery-item:nth-child(6):last-child) .gallery-item:nth-child(5),
+.image-gallery:has(.gallery-item:nth-child(6):last-child) .gallery-item:nth-child(6) {
+  grid-column: 2;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+}
+
+.image-gallery:has(.gallery-item:nth-child(6):last-child) .gallery-item:nth-child(3) img,
+.image-gallery:has(.gallery-item:nth-child(6):last-child) .gallery-item:nth-child(4) img,
+.image-gallery:has(.gallery-item:nth-child(6):last-child) .gallery-item:nth-child(5) img,
+.image-gallery:has(.gallery-item:nth-child(6):last-child) .gallery-item:nth-child(6) img {
+  width: 100%;
+  height: auto;
+  min-height: 150px;
+  object-fit: contain;
+}
+
 .research-visualization {
   margin-top: 2rem;
   padding-top: 2rem;
@@ -386,6 +423,21 @@ description: "Current research projects, conference presentations, and academic 
   .image-gallery:has(.gallery-item:nth-child(2):last-child) .gallery-item img {
     height: 250px;
     object-fit: contain;
+  }
+  
+  /* 6个图片移动端：单列布局 */
+  .image-gallery:has(.gallery-item:nth-child(6):last-child) {
+    grid-template-columns: 1fr !important;
+    gap: 1rem;
+    max-width: none;
+  }
+  
+  .image-gallery:has(.gallery-item:nth-child(6):last-child) .gallery-item:nth-child(3),
+  .image-gallery:has(.gallery-item:nth-child(6):last-child) .gallery-item:nth-child(4),
+  .image-gallery:has(.gallery-item:nth-child(6):last-child) .gallery-item:nth-child(5),
+  .image-gallery:has(.gallery-item:nth-child(6):last-child) .gallery-item:nth-child(6) {
+    grid-column: 1;
+    display: block;
   }
 }
 
