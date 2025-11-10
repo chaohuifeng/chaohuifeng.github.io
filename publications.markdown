@@ -24,9 +24,9 @@ description: "Academic publications, conference presentations, and research cont
 
 ### Papers in Preparation
 
-#### Earthquake-Landslide Cascade Analysis: A Case Study of Xianshuihe Fault Zone
+#### Reconstructing Historical Strong Earthquake Intensity Fields of the Xianshuihe Fault Zone Based on the Stochastic Finite-Fault Method
 **Status**: 🔄 In Preparation  
-**Focus**: Multi-hazard risk assessment framework development
+**Focus**: Methodology for stochastic finite-fault reconstructions of historical intensity fields
 
 ---
 
@@ -53,6 +53,12 @@ description: "Academic publications, conference presentations, and research cont
 **Status**: ✅ Available  
 **Repository**: [github.com/chaohuifeng/seis-risk-sim](https://github.com/chaohuifeng/seis-risk-sim)  
 **Features**: SFFM component derived from exsim_dmb, comprehensive workflow for seismic modeling
+
+### history_asprities
+**Description**: High-performance workflow for simulating multiple historical strong earthquakes, constructing asperity models, and applying site amplification corrections  
+**Status**: ✅ Available  
+**Repository**: [github.com/chaohuifeng/history_asprities](https://github.com/chaohuifeng/history_asprities)  
+**Features**: Integrates stochastic finite-fault modeling with automated asperity generation and site-response processing
 
 ---
 

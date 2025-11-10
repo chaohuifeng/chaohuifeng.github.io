@@ -3,9 +3,6 @@ layout: page
 title: "About Me"
 description: "Personal background, education, and career journey in geoscience research"
 ---
-
-
-
 ---
 
 ## 🎓 Education
@@ -25,7 +22,7 @@ description: "Personal background, education, and career journey in geoscience r
   - Advanced Geophysics
   - Computational Methods in Earth Sciences
 
-### **B.Sc. Land Consolidation Engineering** *(2019 - 2023)*
+### **B.Sc. Land Remediation Engineering** *(2019 - 2023)*
 - **Institution**: Chang'an University
 - **GPA**: 3.35/5.0 *(Top 13%)*
 - **Key Courses**:
@@ -39,15 +36,4 @@ description: "Personal background, education, and career journey in geoscience r
 
 ## 🏆 Key Achievement
 
-**1st Prize**, National Land-Restoration Engineering Competition *(2022)*
-- **Role**: Team Leader
-- **Advisor**: Prof. Lei Han, Chang'an University
-- **Impact**: Applied disaster-chain analysis to land consolidation challenges
-
----
-
-## 🔗 Connect
-
-- **Email**: [fengchaohui23@mails.ucas.ac.cn](mailto:fengchaohui23@mails.ucas.ac.cn)
-- **GitHub**: [github.com/chaohuifeng](https://github.com/chaohuifeng)
-- **ResearchGate**: [researchgate.net/profile/Chaohui-Feng](https://www.researchgate.net/profile/Chaohui-Feng)
+**1st Prize, National Undergraduate Land Remediation and Ecological Restoration Competition** – the top nationwide competition in the field *(Supervisor: Prof. Lei Han, 2022)*
