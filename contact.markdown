@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Contact & Collaboration"
-description: "Get in touch with Chaohui Feng for research collaborations, academic discussions, or professional inquiries"
+description: "Get in touch with Chaohui Feng for research collaborations or academic discussions"
 ---
 
 # 📬 Contact & Collaboration
@@ -27,7 +27,7 @@ I'm always interested in connecting with fellow researchers, potential collabora
 
 ## 🏢 Current Institution
 
-**National Institute of Natural Hazards (MEMC)**  
+**National Institute of Natural Hazards, China**  
 Beijing, China  
 Position: Student Researcher  
 Supervisor: Prof. Jia Cheng [researchgate.net/profile/Jia-Cheng-13](https://www.researchgate.net/profile/Jia-Cheng-13)
@@ -39,23 +39,12 @@ Supervisor: Prof. Jia Cheng [researchgate.net/profile/Jia-Cheng-13](https://www.
 - Multi-hazard modeling and risk assessment
 - Data sharing and integration
 - Open source tool development
-- Field studies and validation
-- Joint research projects
-
----
-
-## 📅 Availability
-
-- **General Inquiries**: 24-48 hour response
-- **Research Collaborations**: 1 week for initial discussion
-- **Student Mentoring**: Available for guidance
-- **Meetings**: Flexible scheduling via email
 
 ---
 
 ## 🌟 Let's Connect
 
-Ready to collaborate? Send me an email to discuss research partnerships, data sharing, or any geohazard-related topics.
+Send me an email to discuss data sharing, or any geohazard-related topics.
 
 <div class="contact-cta">
   <a href="mailto:fengchaohui23@mails.ucas.ac.cn" class="cta-button">📧 Send Email</a>

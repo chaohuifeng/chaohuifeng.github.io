@@ -45,7 +45,7 @@ description: "Current research projects, conference presentations, and academic 
 
 ## 🔬 Current Research
 
-### Xianshuihe Fault Historical Earthquakes Reconstruction
+### 1.Xianshuihe Fault Historical Earthquakes Reconstruction
 **In Progress** - *Nine Historical Earthquakes Analysis*
 
 <div class="research-card">
@@ -86,8 +86,8 @@ description: "Current research projects, conference presentations, and academic 
 
 ---
 
-### Myanmar Moguang Fault Site-Specific Analysis
-**International Collaboration** - *Ground Motion Analysis*
+### 2.Engineering application in Myanmar
+**Industry Collaboration** - *Ground Motion Analysis*
 
 <div class="research-card">
   <div class="research-header">
@@ -96,10 +96,7 @@ description: "Current research projects, conference presentations, and academic 
   </div>
   
   <div class="research-content">
-    <p><strong>Focus:</strong> Site-specific ground motion analysis for Myanmar Moguang Fault near Myitsone Dam using advanced numerical modeling</p>
-    <p><strong>Methodology:</strong> Stochastic Finite-Fault Method (SFFM) with site-specific amplification analysis, multiple fault scenarios, and ground motion spectrum simulation for different return periods</p>
-    <p><strong>Status:</strong> Active international collaboration project with ongoing data collection and analysis</p>
-    <p><strong>Collaboration:</strong> Prof. Xiwei Xu (China University of Geosciences), Prof. Jia Cheng (China University of Geosciences), Dr. Kang Li (National Institute of Natural Hazards, MEMC)</p>
+    <p><strong>Focus:</strong> Performed maximum credible ground-motion simulation for the YUMS Hydropower Site near the Mogang Fault (under an industry funded project by the State Grid Corporation of China).</p>
   </div>
   
   <div class="research-visualization">
