@@ -31,16 +31,14 @@ I specialize in **earthquake simulation and cascading geo-hazards research**, wi
 ## 🔬 Current Research
 
 ### Multi-Hazard Risk Assessment
-- **Funding**: NSFC Projects (42074064, 42474084, U2039201)
-- **Focus**: Historical earthquake intensity field reconstruction
-- **Method**: Stochastic Finite-Fault Method (SFFM) simulation
+- **Funding**: National Natural Science Foundation of China (42074064, 42474084, U2039201), National Institute of Natural Hazards Basic Research Project (ZDJ2020-14), State Power Investment Corporation
+- **Focus**: Historical earthquake intensity field reconstruction and maximum credible ground-motion prediction 
+- **Method**: Stochastic Finite-Fault Method simulation
 
-### Published Research
-- **1833 Songming M8 Earthquake**: Four model comparison study (Published)
-- **Xianshuihe Fault**: Nine historical earthquakes reconstruction (In Progress)
 
 ### Open Source Tools
 - **[SeisRiskSim](https://github.com/chaohuifeng/seis-risk-sim)**: SFFM workflow for seismic hazard simulation
+- **[history_asprities](https://github.com/chaohuifeng/history_asprities)**: High-performance computing workflow for multiple historical strong earthquake simulations, asperity model construction, and site amplification analysis
 
 ---
 
@@ -57,18 +55,18 @@ I specialize in **earthquake simulation and cascading geo-hazards research**, wi
 
 ## 📚 Education
 
-- **M.Sc. Geology** (2024 - Present) - National Institute of Natural Hazards (MEMC)
+- **M.Sc. Geology** (2024 - 2026) - National Institute of Natural Hazards
 - **M.Sc. Geology Coursework Phase** (2023 - 2024) - University of Chinese Academy of Sciences
-- **B.Sc. Land Consolidation Engineering** (2019 - 2023) - Chang'an University
+- **B.Sc. Land Remediation Engineering** (2019 - 2023) - Chang'an University
 
 
 ---
 
 ## 🏆 Awards & Recognition
 
-- **1st Prize**, National Land-Restoration Engineering Competition *(Mar-Aug 2022)*
-  - **Role**: Team Leader
-  - **Advisor**: [Prof. Lei Han - Chang'an University](https://sle.chd.edu.cn/2020/0821/c6431a248329/page.htm)
+- **1st Prize**, National Undergraduate Land Remediation and Ecological Restoration
+ Competition *(Mar-Aug 2022)*
+   - **Advisor**: [Prof. Lei Han - Chang'an University](https://sle.chd.edu.cn/2020/0821/c6431a248329/page.htm)
   - **Achievement**: Applied disaster-chain analysis to land consolidation challenges, demonstrating how geohazard risk assessment can inform sustainable land use planning
 
 ---
@@ -77,11 +75,9 @@ I specialize in **earthquake simulation and cascading geo-hazards research**, wi
 
 - **CGU Annual Meeting 2025** *(Chengdu, China)*
   - Title: *Intensity Field Reconstruction and Earthquake-Landslide Cascades of Xianshuihe Fault*
-  - Status: Accepted
 
 - **Earthquake Hazard Chain Committee Conference 2024** *(Shanghai, China)*
   - Title: *Seismic-Hazard Simulation of the 1833 Songming Earthquake Based on SFFM*
-  - Status: Completed
 
 ---
 

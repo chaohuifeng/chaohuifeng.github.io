@@ -96,7 +96,7 @@ description: "Current research projects, conference presentations, and academic 
   </div>
   
   <div class="research-content">
-    <p><strong>Focus:</strong> Performed maximum credible ground-motion simulation for the YUMS Hydropower Site near the Mogang Fault (under an industry funded project by the State Grid Corporation of China).</p>
+    <p><strong>Focus:</strong> Performed maximum credible ground-motion simulation for the YUMS Hydropower Site near the Mogang Fault in Mayammer(under an industry funded project by the State Grid Corporation of China).</p>
   </div>
   
   <div class="research-visualization">
