@@ -6,10 +6,11 @@ description: "Earthquake Simulation & Cascading Geo-Hazards Researcher"
 
 <div class="hero-section">
   <div class="hero-content">
-    <h1 class="hero-title">Chaohui Feng</h1>
+    <img src="/assets/images/self.jpg" alt="Chaohui Feng portrait" class="hero-photo">
+    <h1 class="hero-title">Chaohui Feng (her/she)</h1>
     <p class="hero-subtitle">Earthquake Simulation & Cascading Geo-Hazards Researcher</p>
-    <p class="hero-location">National Institute of Natural Hazards (MEMC) | Beijing, China</p>
-    <p class="hero-status">🔬 Currently seeking PhD opportunities in Geohazards Research</p>
+    <p class="hero-location">Western University | London, Ontario, Canada</p>
+    <p class="hero-status">🔬 Ph.D. student in Geohazards Research at Western University</p>
     <div class="hero-contact">
       <a href="mailto:fengchaohui23@mails.ucas.ac.cn" class="contact-btn">📧 Contact Me</a>
       <a href="/about" class="contact-btn secondary">📖 About Me</a>
@@ -38,6 +39,7 @@ I specialize in **earthquake simulation and cascading geo-hazards research**, wi
 
 ### Open Source Tools
 - **[SeisRiskSim](https://github.com/chaohuifeng/seis-risk-sim)**: SFFM workflow for seismic hazard simulation
+- **[Max Credible Ground Simulation](https://github.com/chaohuifeng/max-credible-ground-simulation)**: Automated workflow for maximum credible ground-motion simulation, including EXSIM batch runs, weighted PSA statistics, and selected spectrum visualization
 - **[history_asprities](https://github.com/chaohuifeng/history_asprities)**: High-performance computing workflow for multiple historical strong earthquake simulations, asperity model construction, and site amplification analysis
 
 ---
@@ -55,7 +57,8 @@ I specialize in **earthquake simulation and cascading geo-hazards research**, wi
 
 ## 📚 Education
 
-- **M.Sc. Geology** (2024 - 2026) - National Institute of Natural Hazards
+- **Ph.D. Geohazards Research** (2026 - Present) - Western University
+- **M.Sc. Geology** (2024 - 2026, Completed) - National Institute of Natural Hazards
 - **M.Sc. Geology Coursework Phase** (2023 - 2024) - University of Chinese Academy of Sciences
 - **B.Sc. Land Remediation Engineering** (2019 - 2023) - Chang'an University
 
@@ -116,6 +119,16 @@ I specialize in **earthquake simulation and cascading geo-hazards research**, wi
   font-size: 3rem;
   margin-bottom: 1rem;
   font-weight: 700;
+}
+
+.hero-photo {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 4px solid rgba(255, 255, 255, 0.9);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
+  margin-bottom: 1.5rem;
 }
 
 .hero-subtitle {
@@ -222,5 +235,16 @@ I specialize in **earthquake simulation and cascading geo-hazards research**, wi
   font-size: 1.1rem;
   color: #5a6c7d;
   margin-bottom: 0;
+}
+
+@media (max-width: 768px) {
+  .hero-photo {
+    width: 140px;
+    height: 140px;
+  }
+
+  .hero-title {
+    font-size: 2.35rem;
+  }
 }
 </style>

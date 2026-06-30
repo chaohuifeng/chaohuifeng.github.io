@@ -7,7 +7,11 @@ description: "Personal background, education, and career journey in geoscience r
 
 ## 🎓 Education
 
-### **M.Sc. Geology** *(2024 - Present)*
+### **Ph.D. Geohazards Research** *(2026 - Present)*
+- **Institution**: Western University
+- **Status**: Current Ph.D. student
+
+### **M.Sc. Geology** *(2024 - 2026, Completed)*
 - **Institution**: National Institute of Natural Hazards (MEMC)
 - **Thesis**: *Seismogenic-Fault Multi-Hazard Prediction*
 - **Advisor**: Prof. Jia Cheng
