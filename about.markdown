@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About Me"
-description: "Academic background, research interests, selected achievements, and personal interests"
+description: "Academic background, selected achievements, and personal interests"
 ---
 
 ## Education
