@@ -11,16 +11,6 @@ description: "Academic background, research interests, selected achievements, an
 - **2023-2024**: M.Sc. coursework in Geology and Geophysics, University of Chinese Academy of Sciences (UCAS)
 - **2019 - 2023**: B.Sc. in Land Remediation Engineering, Chang'an University
 
-## Research Interests
-
-- Stochastic finite-fault ground-motion simulation
-- Maximum credible earthquake and design spectrum analysis
-- Historical earthquake reconstruction and intensity-field simulation
-- Asperity model generation and rupture-scenario ensembles
-- Earthquake-landslide cascading geo-hazard assessment
-- Site amplification, kappa sensitivity, and weighted uncertainty analysis
-- Python automation, high-performance workflows, and AI-assisted scientific planning
-
 ## Achievements
 
 - Graduate Scholarship, National Institute of Natural Hazards, 2024-2025, awarded in 2025

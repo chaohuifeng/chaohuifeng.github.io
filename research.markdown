@@ -136,6 +136,8 @@ permalink: /projects/
   margin: 0;
   border: none;
   color: #4f2683;
+  font-size: 1.25rem;
+  line-height: 1.35;
 }
 
 .timeline-head span {
