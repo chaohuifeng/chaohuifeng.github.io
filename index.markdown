@@ -39,7 +39,7 @@ I specialize in **earthquake simulation and cascading geo-hazards research**, wi
 
 ### Open Source Tools
 - **[SeisRiskSim](https://github.com/chaohuifeng/seis-risk-sim)**: SFFM workflow for seismic hazard simulation
-- **[Max Credible Ground Simulation](https://github.com/chaohuifeng/max-credible-ground-simulation)**: Automated workflow for maximum credible ground-motion simulation, including EXSIM batch runs, weighted PSA statistics, and selected spectrum visualization
+- **[Max Credible Ground Simulation](https://github.com/chaohuifeng/Max-credible-ground-simulation)**: Automated workflow for maximum credible ground-motion simulation, including EXSIM batch runs, weighted PSA statistics, and selected spectrum visualization
 - **[history_asprities](https://github.com/chaohuifeng/history_asprities)**: High-performance computing workflow for multiple historical strong earthquake simulations, asperity model construction, and site amplification analysis
 
 ---
