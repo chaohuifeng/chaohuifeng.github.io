@@ -12,7 +12,7 @@ description: "Earthquake Simulation & Cascading Geo-Hazards Researcher"
     <p class="hero-location">Western University | London, Ontario, Canada</p>
     <p class="hero-status">🔬 Ph.D. student in Geohazards Research at Western University</p>
     <div class="hero-contact">
-      <a href="mailto:fengchaohui23@mails.ucas.ac.cn" class="contact-btn">📧 Contact Me</a>
+      <a href="mailto:cfeng224@uwo.ca" class="contact-btn">📧 Contact Me</a>
       <a href="/about" class="contact-btn secondary">📖 About Me</a>
     </div>
   </div>
@@ -57,9 +57,9 @@ I specialize in **earthquake simulation and cascading geo-hazards research**, wi
 
 ## 📚 Education
 
-- **Ph.D. Geohazards Research** (2026 - Present) - Western University
+- **Ph.D. Geophysics** (2026 - Present) - Western University
 - **M.Sc. Geology** (2024 - 2026, Completed) - National Institute of Natural Hazards
-- **M.Sc. Geology Coursework Phase** (2023 - 2024) - University of Chinese Academy of Sciences
+- **Graduate coursework in Geology** (2023 - 2024) - University of Chinese Academy of Sciences
 - **B.Sc. Land Remediation Engineering** (2019 - 2023) - Chang'an University
 
 
@@ -69,7 +69,6 @@ I specialize in **earthquake simulation and cascading geo-hazards research**, wi
 
 - **1st Prize**, National Undergraduate Land Remediation and Ecological Restoration
  Competition *(Mar-Aug 2022)*
-   - **Advisor**: [Prof. Lei Han - Chang'an University](https://sle.chd.edu.cn/2020/0821/c6431a248329/page.htm)
   - **Achievement**: Applied disaster-chain analysis to land consolidation challenges, demonstrating how geohazard risk assessment can inform sustainable land use planning
 
 ---
@@ -87,9 +86,13 @@ I specialize in **earthquake simulation and cascading geo-hazards research**, wi
 ## 📬 Get in Touch
 
 <div class="contact-grid">
-  <a href="mailto:fengchaohui23@mails.ucas.ac.cn" class="contact-item">
+  <a href="mailto:cfeng224@uwo.ca" class="contact-item">
     <span class="contact-icon">📧</span>
     <span class="contact-text">Email</span>
+  </a>
+  <a href="https://www.instagram.com/chafey11" class="contact-item">
+    <span class="contact-icon">📷</span>
+    <span class="contact-text">Instagram</span>
   </a>
   <a href="https://github.com/chaohuifeng" class="contact-item">
     <span class="contact-icon">💻</span>

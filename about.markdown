@@ -5,39 +5,15 @@ description: "Personal background, education, and career journey in geoscience r
 ---
 ---
 
-## 🎓 Education
+## Education
 
-### **Ph.D. Geohazards Research** *(2026 - Present)*
-- **Institution**: Western University
-- **Status**: Current Ph.D. student
-
-### **M.Sc. Geology** *(2024 - 2026, Completed)*
-- **Institution**: National Institute of Natural Hazards (MEMC)
-- **Thesis**: *Seismogenic-Fault Multi-Hazard Prediction*
-- **Advisor**: Prof. Jia Cheng
-
-### **Coursework Phase** *(2023 - 2024)*
-- **Institution**: University of Chinese Academy of Sciences (UCAS)
-- **GPA**: 3.7/4.0
-- **Key Courses**: 
-  - Seismic Inversion
-  - GIS Applications in Geoscience
-  - Remote Sensing Laboratory
-  - Advanced Geophysics
-  - Computational Methods in Earth Sciences
-
-### **B.Sc. Land Remediation Engineering** *(2019 - 2023)*
-- **Institution**: Chang'an University
-- **GPA**: 3.35/5.0 *(Top 13%)*
-- **Key Courses**:
-  - Land Surveying and Mapping
-  - Soil Mechanics and Foundation Engineering
-  - Disaster Prevention Engineering
-  - Geographic Information Systems
-  - Remote Sensing Technology
+- **2026 - Present**: Ph.D. student in Geophysics, Western University
+- **2024 - 2026**: M.Sc. in Geology, National Institute of Natural Hazards (MEMC)
+- **2023 - 2024**: Graduate coursework in Geology, University of Chinese Academy of Sciences (UCAS)
+- **2019 - 2023**: B.Sc. in Land Remediation Engineering, Chang'an University
 
 ---
 
-## 🏆 Key Achievement
+## Key Achievement
 
-**1st Prize, National Undergraduate Land Remediation and Ecological Restoration Competition** – the top nationwide competition in the field *(Supervisor: Prof. Lei Han, 2022)*
+**1st Prize, National Undergraduate Land Remediation and Ecological Restoration Competition** - the top nationwide competition in the field *(2022)*

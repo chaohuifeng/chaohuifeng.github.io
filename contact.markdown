@@ -12,7 +12,7 @@ I'm always interested in connecting with fellow researchers, potential collabora
 
 ## 🎯 Primary Contact
 
-**Email**: [fengchaohui23@mails.ucas.ac.cn](mailto:fengchaohui23@mails.ucas.ac.cn)
+**Email**: [cfeng224@uwo.ca](mailto:cfeng224@uwo.ca)
 
 **Response Time**: 24-48 hours
 
@@ -22,15 +22,15 @@ I'm always interested in connecting with fellow researchers, potential collabora
 
 - **GitHub**: [github.com/chaohuifeng](https://github.com/chaohuifeng)
 - **ResearchGate**: [researchgate.net/profile/Chaohui-Feng](https://www.researchgate.net/profile/Chaohui-Feng)
+- **Instagram**: [@chafey11](https://www.instagram.com/chafey11)
 
 ---
 
 ## 🏢 Current Institution
 
-**National Institute of Natural Hazards, China**  
-Beijing, China  
-Position: Student Researcher  
-Supervisor: Prof. Jia Cheng [researchgate.net/profile/Jia-Cheng-13](https://www.researchgate.net/profile/Jia-Cheng-13)
+**Western University**  
+London, Ontario, Canada  
+Position: Ph.D. student
 
 ---
 
@@ -47,5 +47,5 @@ Supervisor: Prof. Jia Cheng [researchgate.net/profile/Jia-Cheng-13](https://www.
 Send me an email to discuss data sharing, or any geohazard-related topics.
 
 <div class="contact-cta">
-  <a href="mailto:fengchaohui23@mails.ucas.ac.cn" class="cta-button">📧 Send Email</a>
+  <a href="mailto:cfeng224@uwo.ca" class="cta-button">📧 Send Email</a>
 </div>

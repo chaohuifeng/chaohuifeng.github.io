@@ -178,4 +178,4 @@ For questions about this website template or Jekyll:
 
 **Last updated**: January 2025  
 **Maintainer**: Chaohui Feng  
-**Email**: fengchaohui23@mails.ucas.ac.cn
+**Email**: cfeng224@uwo.ca
