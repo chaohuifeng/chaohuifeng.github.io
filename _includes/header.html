@@ -1,8 +1,8 @@
+<div class="rainbow-strip"></div>
 <header class="site-header">
   <div class="header-container">
     <div class="site-title">
       <a href="/" class="site-name">Chaohui Feng</a>
-      <span class="site-subtitle">Academic Homepage</span>
     </div>
     
     <nav class="site-nav">
@@ -14,7 +14,7 @@
           <a href="/about" class="nav-link">About</a>
         </li>
         <li class="nav-item">
-          <a href="/research" class="nav-link">Research</a>
+          <a href="/projects" class="nav-link">Projects</a>
         </li>
         <li class="nav-item">
           <a href="/publications" class="nav-link">Publications</a>
@@ -33,11 +33,16 @@
 <style>
 .site-header {
   background: white;
-  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+  box-shadow: 0 2px 10px rgba(79,38,131,0.12);
   position: sticky;
   top: 0;
   z-index: 1000;
-  border-bottom: 2px solid #e8f4f8;
+  border-bottom: 2px solid #ded7e8;
+}
+
+.rainbow-strip {
+  height: 6px;
+  background: linear-gradient(90deg, #e23d28 0%, #f4b000 18%, #72a950 36%, #00a3a3 54%, #2f6fd6 72%, #4f2683 100%);
 }
 
 .header-container {
@@ -57,15 +62,9 @@
 .site-name {
   font-size: 1.8rem;
   font-weight: 700;
-  color: #1a4a6b;
+  color: #4f2683;
   text-decoration: none;
   margin-bottom: 0.2rem;
-}
-
-.site-subtitle {
-  font-size: 0.9rem;
-  color: #7f8c8d;
-  font-style: italic;
 }
 
 .site-nav {
@@ -80,8 +79,17 @@
   gap: 2rem;
 }
 
+.nav-list .nav-item {
+  padding-left: 0;
+  margin-bottom: 0;
+}
+
+.nav-list .nav-item:before {
+  content: none;
+}
+
 .nav-link {
-  color: #2c3e50;
+  color: #2c2438;
   text-decoration: none;
   font-weight: 500;
   padding: 0.5rem 1rem;
@@ -91,8 +99,8 @@
 }
 
 .nav-link:hover {
-  color: #3498db;
-  background: #f8f9fa;
+  color: #4f2683;
+  background: #f6f2fb;
 }
 
 .nav-link:after {
@@ -102,7 +110,7 @@
   left: 50%;
   width: 0;
   height: 2px;
-  background: #3498db;
+  background: #4f2683;
   transition: all 0.3s ease;
   transform: translateX(-50%);
 }
@@ -121,7 +129,7 @@
 .mobile-menu-toggle span {
   width: 25px;
   height: 3px;
-  background: #2c3e50;
+  background: #4f2683;
   transition: all 0.3s ease;
 }
 

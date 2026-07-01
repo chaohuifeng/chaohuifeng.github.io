@@ -1,253 +1,99 @@
 ---
 layout: default
 title: "Chaohui Feng - Academic Homepage"
-description: "Earthquake Simulation & Cascading Geo-Hazards Researcher"
+description: "Seismic Ground Motion & Cascading Geo-Hazard Researcher"
 ---
 
-<div class="hero-section">
+<div class="hero-section compact-home">
   <div class="hero-content">
     <img src="/assets/images/self.jpg" alt="Chaohui Feng portrait" class="hero-photo">
-    <h1 class="hero-title">Chaohui Feng (her/she)</h1>
-    <p class="hero-subtitle">Earthquake Simulation & Cascading Geo-Hazards Researcher</p>
-    <p class="hero-location">Western University | London, Ontario, Canada</p>
-    <p class="hero-status">🔬 Ph.D. student in Geohazards Research at Western University</p>
+    <h1 class="hero-title">Chaohui Feng (she/her)</h1>
+    <p class="hero-subtitle">Geophysics PhD in Western University</p>
+    <p class="hero-location">Stochastic finite-fault simulation, historical earthquake reconstruction, cascading geo-hazard, AI-assisted geoscience workflows</p>
     <div class="hero-contact">
-      <a href="mailto:cfeng224@uwo.ca" class="contact-btn">📧 Contact Me</a>
-      <a href="/about" class="contact-btn secondary">📖 About Me</a>
+      <a href="mailto:cfeng224@uwo.ca" class="contact-btn">cfeng224@uwo.ca</a>
     </div>
   </div>
 </div>
 
----
+## Featured Work
 
-## 🎯 Research Focus
-
-I specialize in **earthquake simulation and cascading geo-hazards research**, with expertise in:
-- **Stochastic Finite-Fault Modeling** for historical earthquake reconstruction
-- **Multi-hazard risk assessment** integrating seismic and landslide cascades
-- **High-performance computing workflows** for large-scale geospatial analysis
-
----
-
-## 🔬 Current Research
-
-### Multi-Hazard Risk Assessment
-- **Funding**: National Natural Science Foundation of China (42074064, 42474084, U2039201), National Institute of Natural Hazards Basic Research Project (ZDJ2020-14), State Power Investment Corporation
-- **Focus**: Historical earthquake intensity field reconstruction and maximum credible ground-motion prediction 
-- **Method**: Stochastic Finite-Fault Method simulation
-
-
-### Open Source Tools
-- **[SeisRiskSim](https://github.com/chaohuifeng/seis-risk-sim)**: SFFM workflow for seismic hazard simulation
-- **[Max Credible Ground Simulation](https://github.com/chaohuifeng/Max-credible-ground-simulation)**: Automated workflow for maximum credible ground-motion simulation, including EXSIM batch runs, weighted PSA statistics, and selected spectrum visualization
-- **[history_asprities](https://github.com/chaohuifeng/history_asprities)**: High-performance computing workflow for multiple historical strong earthquake simulations, asperity model construction, and site amplification analysis
-
----
-
-## 🛠️ Technical Expertise
-
-| **Domain** | **Technologies** | **Applications** |
-|------------|------------------|------------------|
-| **Seismic Modeling** | Python (ObsPy, NumPy), SFFM, OpenQuake | Ground-motion simulation, historical reconstruction |
-| **Spatial Analysis** | ArcGIS, PostgreSQL/PostGIS, GMT | Intensity mapping, landslide susceptibility |
-| **HPC & Automation** | Fortran+MPI, Slurm, GitHub Actions | Large-scale modeling, reproducible workflows |
-| **Data Analytics** | SQL, Metabase, Docker | Real-time dashboards, workflow management |
-
----
-
-## 📚 Education
-
-- **Ph.D. Geophysics** (2026 - Present) - Western University
-- **M.Sc. Geology** (2024 - 2026, Completed) - National Institute of Natural Hazards
-- **Graduate coursework in Geology** (2023 - 2024) - University of Chinese Academy of Sciences
-- **B.Sc. Land Remediation Engineering** (2019 - 2023) - Chang'an University
-
-
----
-
-## 🏆 Awards & Recognition
-
-- **1st Prize**, National Undergraduate Land Remediation and Ecological Restoration
- Competition *(Mar-Aug 2022)*
-  - **Achievement**: Applied disaster-chain analysis to land consolidation challenges, demonstrating how geohazard risk assessment can inform sustainable land use planning
-
----
-
-## 📊 Recent Presentations
-
-- **CGU Annual Meeting 2025** *(Chengdu, China)*
-  - Title: *Intensity Field Reconstruction and Earthquake-Landslide Cascades of Xianshuihe Fault*
-
-- **Earthquake Hazard Chain Committee Conference 2024** *(Shanghai, China)*
-  - Title: *Seismic-Hazard Simulation of the 1833 Songming Earthquake Based on SFFM*
-
----
-
-## 📬 Get in Touch
-
-<div class="contact-grid">
-  <a href="mailto:cfeng224@uwo.ca" class="contact-item">
-    <span class="contact-icon">📧</span>
-    <span class="contact-text">Email</span>
+<div class="home-projects">
+  <a class="home-project" href="https://github.com/chaohuifeng/Max-credible-ground-simulation">
+    <strong>Maximum Credible Ground-Motion Simulation</strong>
+    <span>Automated EXSIM batch workflow for weighted PSA statistics, spectrum selection, and visualization.</span>
   </a>
-  <a href="https://www.instagram.com/chafey11" class="contact-item">
-    <span class="contact-icon">📷</span>
-    <span class="contact-text">Instagram</span>
+
+  <a class="home-project" href="https://github.com/chaohuifeng/history_asprities">
+    <strong>Historical Earthquake Asperity Workflows</strong>
+    <span>Scenario generation and stochastic finite-fault modeling for historical strong earthquakes.</span>
   </a>
-  <a href="https://github.com/chaohuifeng" class="contact-item">
-    <span class="contact-icon">💻</span>
-    <span class="contact-text">GitHub</span>
-  </a>
-  <a href="https://www.researchgate.net/profile/Chaohui-Feng" class="contact-item">
-    <span class="contact-icon">🔬</span>
-    <span class="contact-text">ResearchGate</span>
+
+  <a class="home-project" href="https://github.com/chaohuifeng/seis-risk-sim">
+    <strong>Historical Intensity Reconstruction</strong>
+    <span>Open-source tools for seismic hazard simulation and reproducible ground-motion analysis.</span>
   </a>
 </div>
 
----
-
-
 <style>
-.hero-section {
-  background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
-  color: white;
-  padding: 4rem 2rem;
-  border-radius: 20px;
-  margin-bottom: 3rem;
+.compact-home {
+  margin-bottom: 2rem;
+}
+
+.hero-summary {
+  max-width: 760px;
+  margin: 0 auto 1.75rem auto;
+  font-size: 1.08rem;
+  line-height: 1.7;
+  opacity: 0.95;
   text-align: center;
-  box-shadow: 0 10px 30px rgba(30, 60, 114, 0.3);
-}
-
-.hero-title {
-  font-size: 3rem;
-  margin-bottom: 1rem;
-  font-weight: 700;
-}
-
-.hero-photo {
-  width: 180px;
-  height: 180px;
-  object-fit: cover;
-  border-radius: 50%;
-  border: 4px solid rgba(255, 255, 255, 0.9);
-  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.25);
-  margin-bottom: 1.5rem;
-}
-
-.hero-subtitle {
-  font-size: 1.5rem;
-  margin-bottom: 1rem;
-  opacity: 0.9;
 }
 
 .hero-location {
-  font-size: 1.1rem;
-  margin-bottom: 1rem;
-  opacity: 0.8;
+  max-width: 860px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
 }
 
-.hero-status {
-  font-size: 1.1rem;
-  margin-bottom: 2rem;
-  opacity: 0.9;
+.hero-subtitle {
+  text-align: center;
 }
 
-.hero-contact {
-  display: flex;
-  gap: 1rem;
-  justify-content: center;
-  flex-wrap: wrap;
-}
-
-.contact-btn {
-  display: inline-block;
-  padding: 1rem 2rem;
-  background: #3498db;
-  color: white;
-  text-decoration: none;
-  border-radius: 25px;
-  font-weight: 600;
-  transition: all 0.3s ease;
-}
-
-.contact-btn:hover {
-  background: #2980b9;
-  transform: translateY(-2px);
-}
-
-.contact-btn.secondary {
-  background: transparent;
-  border: 2px solid white;
-}
-
-.contact-btn.secondary:hover {
-  background: white;
-  color: #1e3c72;
-}
-
-.contact-grid {
+.home-projects {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
   gap: 1rem;
-  margin: 2rem 0;
+  margin: 1.5rem 0 2rem;
 }
 
-.contact-item {
+.home-project {
   display: flex;
   flex-direction: column;
-  align-items: center;
-  padding: 1.5rem;
-  background: #f8f9fa;
-  border-radius: 15px;
+  gap: 0.7rem;
+  padding: 1.35rem;
+  background: #ffffff;
+  border: 1px solid #ded7e8;
+  border-left: 4px solid #4f2683;
+  border-radius: 8px;
+  color: #2c2438;
   text-decoration: none;
-  color: #333;
-  transition: all 0.3s ease;
-  border: 2px solid transparent;
+  box-shadow: 0 4px 14px rgba(79, 38, 131, 0.08);
 }
 
-.contact-item:hover {
-  border-color: #3498db;
-  transform: translateY(-3px);
-  box-shadow: 0 5px 15px rgba(52, 152, 219, 0.2);
+.home-project:hover {
+  transform: translateY(-2px);
+  border-color: #4f2683;
+  box-shadow: 0 8px 22px rgba(79, 38, 131, 0.16);
 }
 
-.contact-icon {
-  font-size: 2rem;
-  margin-bottom: 0.5rem;
+.home-project strong {
+  color: #4f2683;
+  font-size: 1.05rem;
 }
 
-.contact-text {
-  font-weight: 600;
-}
-
-.collaboration-cta {
-  background: linear-gradient(135deg, #f8f9fa 0%, #e8f4f8 100%);
-  padding: 2.5rem;
-  border-radius: 15px;
-  text-align: center;
-  margin: 3rem 0;
-  border: 2px solid #3498db;
-}
-
-.collaboration-cta h3 {
-  color: #1a4a6b;
-  margin-top: 0;
-}
-
-.collaboration-cta p {
-  font-size: 1.1rem;
-  color: #5a6c7d;
-  margin-bottom: 0;
-}
-
-@media (max-width: 768px) {
-  .hero-photo {
-    width: 140px;
-    height: 140px;
-  }
-
-  .hero-title {
-    font-size: 2.35rem;
-  }
+.home-project span {
+  color: #5f566b;
+  line-height: 1.55;
 }
 </style>

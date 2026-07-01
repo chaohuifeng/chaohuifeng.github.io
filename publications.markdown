@@ -4,111 +4,34 @@ title: "Publications & Academic Outputs"
 description: "Academic publications, conference presentations, and research contributions in earthquake simulation and geohazard research"
 ---
 
-
----
-
-## 📖 Journal Publications
+## Journal Publications
 
 ### Published Papers
 
-#### 1. Stochastic Ground-Motion Modelling for Historical Earthquakes
-**Journal**: *Journal of Seismological Research (in Chinese)*  
-**Status**: 🔄 Pending Publication  
-**Year**: 2025  
-**Authors**: Feng, C., Cheng, J., Wang, Z.  
-**DOI**: [Pending]  
+奉超晖, 程佳, 王子月. 2026. 基于随机有限断层方法模拟 1833 年嵩明 8 级地震烈度场[J]. 地震研究, 49(4): 629-639, doi:10.20015/j.cnki.ISSN1000-0666.2026.0064.
 
-**Abstract**: This study presents a comprehensive analysis of the 1833 Songming M8 earthquake using the Stochastic Finite-Fault Method (SFFM). We incorporate non-uniform slip distributions and site effect corrections to improve ground motion prediction accuracy.
-
----
+Feng C H, Cheng J, Wang Z Y. 2026. Intensity field simulation of the 1833 Songming M8.0 earthquake based on the Stochastic Finite-Fault Method[J]. Journal of Seismological Research, 49(4): 629-639, doi:10.20015/j.cnki.ISSN1000-0666.2026.0064.
 
 ### Papers in Preparation
 
 #### Reconstructing Historical Strong Earthquake Intensity Fields of the Xianshuihe Fault Zone Based on the Stochastic Finite-Fault Method
-**Status**: 🔄 In Preparation  
+
+**Status**: In Preparation  
 **Focus**: Methodology for stochastic finite-fault reconstructions of historical intensity fields
 
----
-
-## 🎤 Conference Presentations
+## Conference Presentations
 
 #### Chinese Geoscience Union (CGU) Annual Meeting
-- **Title**: *Intensity Field Reconstruction and Earthquake-Landslide Cascades of Xianshuihe Fault*  
-- **Date**: October 2025  
-- **Venue**: Chengdu, China  
-- **Status**: ✅ Accepted  
+
+- *Intensity Field Reconstruction and Earthquake-Landslide Cascades of Xianshuihe Fault*
+- Oral presentation, Chengdu, China, October 2025
 
 #### Annual Academic Conference of the Earthquake Hazard Chain Committee
-- **Title**: *Seismic-Hazard Simulation of the 1833 Songming Earthquake Based on SFFM*  
-- **Date**: December 2024  
-- **Venue**: Shanghai, China  
-- **Status**: ✅ Completed  
 
----
+- *Seismic-Hazard Simulation of the 1833 Songming Earthquake Based on SFFM*
+- Conference presentation, Shanghai, China, December 2024
 
-## 🛠️ Open Source Tools & Software
+#### Seismological Society of China Earthquake Disaster Chain Annual Conference
 
-### SeisRiskSim
-**Description**: Python workflow for Stochastic Finite Fault Method (SFFM) and strong-motion fault modeling  
-**Status**: ✅ Available  
-**Repository**: [github.com/chaohuifeng/seis-risk-sim](https://github.com/chaohuifeng/seis-risk-sim)  
-**Features**: SFFM component derived from exsim_dmb, comprehensive workflow for seismic modeling
-
-### history_asprities
-**Description**: High-performance workflow for simulating multiple historical strong earthquakes, constructing asperity models, and applying site amplification corrections  
-**Status**: ✅ Available  
-**Repository**: [github.com/chaohuifeng/history_asprities](https://github.com/chaohuifeng/history_asprities)  
-**Features**: Integrates stochastic finite-fault modeling with automated asperity generation and site-response processing
-
----
-
-## 🏆 Patents & Intellectual Property
-
-### Pending Patent
-**Title**: Multi-hazard assessment framework for earthquake-landslide cascade modeling  
-**Status**: 🔄 Application submitted, under review  
-**Innovation**: Integrated approach combining seismic simulation with landslide susceptibility analysis  
-**Application Date**: 2025
-
-
----
-
-<style>
-.publication-cta {
-  background: linear-gradient(135deg, #f8f9fa 0%, #e8f4f8 100%);
-  padding: 2.5rem;
-  border-radius: 15px;
-  text-align: center;
-  margin: 3rem 0;
-  border: 2px solid #3498db;
-}
-
-.publication-cta h3 {
-  color: #1a4a6b;
-  border: none;
-  margin-top: 0;
-}
-
-.publication-cta p {
-  font-size: 1.1rem;
-  color: #5a6c7d;
-  margin-bottom: 1.5rem;
-}
-
-.cta-button {
-  display: inline-block;
-  padding: 1rem 2rem;
-  background: #3498db;
-  color: white;
-  border-radius: 25px;
-  text-decoration: none;
-  font-weight: 600;
-  transition: all 0.3s ease;
-}
-
-.cta-button:hover {
-  background: #1a4a6b;
-  transform: translateY(-2px);
-  box-shadow: 0 4px 15px rgba(52,152,219,0.4);
-}
-</style>
+- *基于随机有限断层方法重建1833年M8嵩明地震*
+- Poster presentation by Chaohui Feng, Xiamen, China, November 2024
