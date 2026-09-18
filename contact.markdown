@@ -22,6 +22,7 @@ I'm always interested in connecting with fellow researchers, potential collabora
 
 - **GitHub**: [github.com/chaohuifeng](https://github.com/chaohuifeng)
 - **ResearchGate**: [researchgate.net/profile/Chaohui-Feng](https://www.researchgate.net/profile/Chaohui-Feng)
+- **LinkedIn**: [linkedin.com/in/cfeng224](https://www.linkedin.com/in/cfeng224/)
 - **Instagram**: [@chafey11](https://www.instagram.com/chafey11)
 
 ---
