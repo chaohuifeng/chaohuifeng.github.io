@@ -8,16 +8,15 @@ description: "Earthquake-Tsunami Laboratory"
   <div class="hero-content">
     <img src="/assets/images/self.jpg" alt="Chaohui Feng portrait" class="hero-photo">
     <h1 class="hero-title">Chaohui Feng <span class="pronouns">(she/her)</span></h1>
-    <p class="hero-subtitle">Earthquake-Tsunami Laboratory</p>
-    <p class="hero-address">Biological &amp; Geological Sciences Building 1012B, N6A 3K7</p>
-    <p class="hero-location">Stochastic finite-fault simulation, historical earthquake reconstruction, cascading geo-hazard, AI-assisted geoscience workflows</p>
-    <div class="hero-contact">
-      <a href="mailto:cfeng224@uwo.ca" class="contact-btn">cfeng224@uwo.ca</a>
+    <div class="hero-interests">
+      <p>Stochastic Finite-Fault Simulation</p>
+      <p>Historical Earthquake Reconstruction</p>
+      <p>Cascading Geo-Hazard and AI-Assisted Geoscience Workflows</p>
     </div>
   </div>
 </div>
 
-## Featured Work
+## Work
 
 <div class="home-projects">
   <a class="home-project" href="https://github.com/chaohuifeng/Max-credible-ground-simulation">
@@ -61,10 +60,19 @@ description: "Earthquake-Tsunami Laboratory"
   text-align: center;
 }
 
-.hero-address {
-  margin: 0 0 1.2rem;
+.hero-interests {
+  display: grid;
+  gap: 0.45rem;
+  margin: 0;
   text-align: center;
-  opacity: 0.86;
+  font-size: 1.12rem;
+  letter-spacing: 0;
+}
+
+.hero-interests p {
+  margin: 0;
+  text-align: center;
+  opacity: 0.9;
 }
 
 .pronouns {

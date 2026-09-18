@@ -43,7 +43,7 @@
 
 .rainbow-strip {
   height: 6px;
-  background: var(--western-purple, #4f2683);
+  background: linear-gradient(90deg, #e23d28 0%, #f4b000 18%, #72a950 36%, #00a3a3 54%, #2f6fd6 72%, #4f2683 100%);
 }
 
 .header-container {
@@ -58,12 +58,15 @@
 .site-title {
   display: flex;
   align-items: center;
-  gap: 0.75rem;
+  gap: 0.9rem;
+  background: var(--western-purple, #4f2683);
+  padding: 0.55rem 1rem;
+  border-radius: 8px;
 }
 
 .site-logo {
-  width: 46px;
-  height: 46px;
+  width: 62px;
+  height: 62px;
   object-fit: contain;
   flex: 0 0 auto;
 }
@@ -71,9 +74,9 @@
 .site-name {
   font-size: 1.8rem;
   font-weight: 700;
-  color: var(--western-purple, #4f2683);
+  color: white;
   text-decoration: none;
-  margin-bottom: 0.2rem;
+  margin-bottom: 0;
 }
 
 .site-nav {
@@ -185,8 +188,8 @@
   }
 
   .site-logo {
-    width: 40px;
-    height: 40px;
+    width: 54px;
+    height: 54px;
   }
 }
 </style>
