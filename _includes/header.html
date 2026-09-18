@@ -2,6 +2,7 @@
 <header class="site-header">
   <div class="header-container">
     <div class="site-title">
+      <img src="/assets/images/school.png" alt="Western University crest" class="site-logo">
       <a href="/" class="site-name">Chaohui Feng</a>
     </div>
     
@@ -42,7 +43,7 @@
 
 .rainbow-strip {
   height: 6px;
-  background: linear-gradient(90deg, #e23d28 0%, #f4b000 18%, #72a950 36%, #00a3a3 54%, #2f6fd6 72%, #4f2683 100%);
+  background: var(--western-purple, #4f2683);
 }
 
 .header-container {
@@ -56,13 +57,21 @@
 
 .site-title {
   display: flex;
-  flex-direction: column;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.site-logo {
+  width: 46px;
+  height: 46px;
+  object-fit: contain;
+  flex: 0 0 auto;
 }
 
 .site-name {
   font-size: 1.8rem;
   font-weight: 700;
-  color: #4f2683;
+  color: var(--western-purple, #4f2683);
   text-decoration: none;
   margin-bottom: 0.2rem;
 }
@@ -99,7 +108,7 @@
 }
 
 .nav-link:hover {
-  color: #4f2683;
+  color: var(--western-purple, #4f2683);
   background: #f6f2fb;
 }
 
@@ -110,7 +119,7 @@
   left: 50%;
   width: 0;
   height: 2px;
-  background: #4f2683;
+  background: var(--western-purple, #4f2683);
   transition: all 0.3s ease;
   transform: translateX(-50%);
 }
@@ -132,7 +141,7 @@
 .mobile-menu-toggle span {
   width: 25px;
   height: 3px;
-  background: #4f2683;
+  background: var(--western-purple, #4f2683);
   transition: all 0.3s ease;
 }
 
@@ -173,6 +182,11 @@
   
   .site-name {
     font-size: 1.5rem;
+  }
+
+  .site-logo {
+    width: 40px;
+    height: 40px;
   }
 }
 </style>

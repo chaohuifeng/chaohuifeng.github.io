@@ -34,8 +34,8 @@
             <div class="footer-content">
                 <div class="footer-section">
                     <h4>Chaohui Feng</h4>
-                    <p>Seismic Ground Motion & Cascading Geo-Hazard Researcher</p>
-                    <p>Western University</p>
+                    <p>Earthquake-Tsunami Laboratory</p>
+                    <p>Biological &amp; Geological Sciences Building 1012B, N6A 3K7</p>
                 </div>
                 
                 <div class="footer-section">
@@ -54,6 +54,7 @@
                     <p>Location: London, Ontario, Canada</p>
                     <p>Instagram: <a href="https://www.instagram.com/chafey11">chafey11</a></p>
                     <p><a href="https://www.researchgate.net/profile/Chaohui-Feng">ResearchGate</a></p>
+                    <p><a href="https://www.linkedin.com/in/cfeng224/">LinkedIn</a></p>
                 </div>
             </div>
             
@@ -65,6 +66,14 @@
     </footer>
     
     <style>
+    :root {
+      --western-purple: #4f2683;
+      --western-purple-dark: #3b1d61;
+      --western-purple-mid: #5f3a92;
+      --western-purple-light: #ded7e8;
+      --western-purple-soft: #f8f6fb;
+    }
+
     * {
       box-sizing: border-box;
     }
@@ -79,7 +88,7 @@
     }
     
     h1, h2, h3, h4, h5, h6 {
-      color: #4f2683;
+      color: var(--western-purple);
       font-weight: 600;
       margin-top: 2rem;
       margin-bottom: 1rem;
@@ -89,30 +98,30 @@
     
     h1 {
       font-size: 2.5rem;
-      color: #3b1d61;
-      border-bottom: 3px solid #4f2683;
+      color: var(--western-purple-dark);
+      border-bottom: 3px solid var(--western-purple);
     }
     
     h2 {
       font-size: 2rem;
-      color: #4f2683;
+      color: var(--western-purple);
     }
     
     h3 {
       font-size: 1.5rem;
-      color: #5f3a92;
+      color: var(--western-purple-mid);
     }
     
     a {
-      color: #4f2683;
+      color: var(--western-purple);
       text-decoration: none;
       transition: all 0.3s ease;
       border-bottom: 1px solid transparent;
     }
     
     a:hover {
-      color: #4f2683;
-      border-bottom: 1px solid #4f2683;
+      color: var(--western-purple);
+      border-bottom: 1px solid var(--western-purple);
     }
     
     p {
@@ -121,7 +130,7 @@
     }
     
     strong {
-      color: #4f2683;
+      color: var(--western-purple);
       font-weight: 600;
     }
     
@@ -147,7 +156,7 @@
     
     ul li:before {
       content: ">";
-      color: #4f2683;
+      color: var(--western-purple);
       font-weight: bold;
       position: absolute;
       left: 0;
@@ -170,7 +179,7 @@
     }
     
     th {
-      background: #4f2683;
+      background: var(--western-purple);
       color: white;
       font-weight: 600;
       text-transform: uppercase;
@@ -183,7 +192,7 @@
     }
     
     .hero-section {
-      background: linear-gradient(135deg, #4f2683 0%, #6f4ab0 100%);
+      background: linear-gradient(135deg, var(--western-purple) 0%, #6f4ab0 100%);
       color: white;
       padding: 3rem 2rem;
       text-align: center;
@@ -320,7 +329,7 @@
     .contact-item:hover {
       transform: translateY(-5px);
       box-shadow: 0 8px 25px rgba(0,0,0,0.15);
-      border-color: #4f2683;
+      border-color: var(--western-purple);
     }
     
     .contact-icon {
@@ -340,11 +349,11 @@
       border-radius: 15px;
       text-align: center;
       margin: 3rem 0;
-      border: 2px solid #4f2683;
+      border: 2px solid var(--western-purple);
     }
     
     .collaboration-cta h3 {
-      color: #4f2683;
+      color: var(--western-purple);
       border: none;
       margin-top: 0;
     }
@@ -361,13 +370,13 @@
       border-radius: 12px;
       text-align: center;
       margin: 2rem 0;
-      border-left: 4px solid #4f2683;
+      border-left: 4px solid var(--western-purple);
     }
     
     .cta-button {
       display: inline-block;
       padding: 1rem 2rem;
-      background: #4f2683;
+      background: var(--western-purple);
       color: white;
       border-radius: 25px;
       text-decoration: none;
@@ -377,7 +386,7 @@
     }
     
     .cta-button:hover {
-      background: #4f2683;
+      background: var(--western-purple);
       transform: translateY(-2px);
       box-shadow: 0 4px 15px rgba(79,38,131,0.28);
     }
@@ -406,7 +415,7 @@
     }
     
     blockquote {
-      border-left: 4px solid #4f2683;
+      border-left: 4px solid var(--western-purple);
       margin: 2rem 0;
       padding: 1rem 2rem;
       background: #f8f6fb;
@@ -418,7 +427,7 @@
     hr {
       border: none;
       height: 2px;
-      background: linear-gradient(90deg, transparent, #4f2683, transparent);
+      background: linear-gradient(90deg, transparent, var(--western-purple), transparent);
       margin: 3rem 0;
     }
     
@@ -466,7 +475,7 @@
     }
     
     .site-footer {
-        background: #4f2683;
+        background: var(--western-purple);
         color: white;
         padding: 3rem 0 1rem 0;
         margin-top: 4rem;
@@ -486,7 +495,7 @@
     }
     
     .footer-section h4 {
-        color: #4f2683;
+        color: white;
         margin-bottom: 1rem;
         border: none;
     }
@@ -506,13 +515,13 @@
     }
     
     .footer-section a {
-        color: #bdc3c7;
+        color: var(--western-purple-light);
         text-decoration: none;
         transition: color 0.3s ease;
     }
     
     .footer-section a:hover {
-        color: #4f2683;
+        color: white;
     }
     
     .footer-bottom {
@@ -533,7 +542,7 @@
       padding: 2rem;
       margin: 2rem 0;
       box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-      border-left: 4px solid #4f2683;
+      border-left: 4px solid var(--western-purple);
     }
     
     .project-header {
@@ -545,7 +554,7 @@
     
     .project-header h3 {
       margin: 0;
-      color: #4f2683;
+      color: var(--western-purple);
       border: none;
     }
     
@@ -564,7 +573,7 @@
     
     .project-status.completed {
       background: #ded7e8;
-      color: #4f2683;
+      color: var(--western-purple);
     }
     
     .project-details {

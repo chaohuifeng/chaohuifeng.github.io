@@ -1,14 +1,15 @@
 ---
 layout: default
 title: "Chaohui Feng - Academic Homepage"
-description: "Seismic Ground Motion & Cascading Geo-Hazard Researcher"
+description: "Earthquake-Tsunami Laboratory"
 ---
 
 <div class="hero-section compact-home">
   <div class="hero-content">
     <img src="/assets/images/self.jpg" alt="Chaohui Feng portrait" class="hero-photo">
-    <h1 class="hero-title">Chaohui Feng (she/her)</h1>
-    <p class="hero-subtitle">Geophysics PhD in Western University</p>
+    <h1 class="hero-title">Chaohui Feng <span class="pronouns">(she/her)</span></h1>
+    <p class="hero-subtitle">Earthquake-Tsunami Laboratory</p>
+    <p class="hero-address">Biological &amp; Geological Sciences Building 1012B, N6A 3K7</p>
     <p class="hero-location">Stochastic finite-fault simulation, historical earthquake reconstruction, cascading geo-hazard, AI-assisted geoscience workflows</p>
     <div class="hero-contact">
       <a href="mailto:cfeng224@uwo.ca" class="contact-btn">cfeng224@uwo.ca</a>
@@ -60,6 +61,19 @@ description: "Seismic Ground Motion & Cascading Geo-Hazard Researcher"
   text-align: center;
 }
 
+.hero-address {
+  margin: 0 0 1.2rem;
+  text-align: center;
+  opacity: 0.86;
+}
+
+.pronouns {
+  font-size: 0.33em;
+  font-weight: 400;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
 .home-projects {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
@@ -74,7 +88,7 @@ description: "Seismic Ground Motion & Cascading Geo-Hazard Researcher"
   padding: 1.35rem;
   background: #ffffff;
   border: 1px solid #ded7e8;
-  border-left: 4px solid #4f2683;
+  border-left: 4px solid var(--western-purple, #4f2683);
   border-radius: 8px;
   color: #2c2438;
   text-decoration: none;
@@ -83,12 +97,12 @@ description: "Seismic Ground Motion & Cascading Geo-Hazard Researcher"
 
 .home-project:hover {
   transform: translateY(-2px);
-  border-color: #4f2683;
+  border-color: var(--western-purple, #4f2683);
   box-shadow: 0 8px 22px rgba(79, 38, 131, 0.16);
 }
 
 .home-project strong {
-  color: #4f2683;
+  color: var(--western-purple, #4f2683);
   font-size: 1.05rem;
 }
 
